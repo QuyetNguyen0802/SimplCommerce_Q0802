@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\carousel-widget\\carousel-widget-form.html",
+      "PackagePath": "staticwebassets\\admin\\carousel-widget\\carousel-widget-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\carousel-widget\\carousel-widget-form.js",
+      "PackagePath": "staticwebassets\\admin\\carousel-widget\\carousel-widget-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\carousel-widget\\carousel-widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\carousel-widget\\carousel-widget-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\cms.module.js",
+      "PackagePath": "staticwebassets\\admin\\cms.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\html-widget\\html-widget-form.html",
+      "PackagePath": "staticwebassets\\admin\\html-widget\\html-widget-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\html-widget\\html-widget-form.js",
+      "PackagePath": "staticwebassets\\admin\\html-widget\\html-widget-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\html-widget\\html-widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\html-widget\\html-widget-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\menu\\menu-form-create.html",
+      "PackagePath": "staticwebassets\\admin\\menu\\menu-form-create.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\menu\\menu-form-create.js",
+      "PackagePath": "staticwebassets\\admin\\menu\\menu-form-create.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\menu\\menu-form.html",
+      "PackagePath": "staticwebassets\\admin\\menu\\menu-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\menu\\menu-form.js",
+      "PackagePath": "staticwebassets\\admin\\menu\\menu-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\menu\\menu-list.html",
+      "PackagePath": "staticwebassets\\admin\\menu\\menu-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\menu\\menu-list.js",
+      "PackagePath": "staticwebassets\\admin\\menu\\menu-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\menu\\menu-service.js",
+      "PackagePath": "staticwebassets\\admin\\menu\\menu-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\page\\page-form.html",
+      "PackagePath": "staticwebassets\\admin\\page\\page-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\page\\page-form.js",
+      "PackagePath": "staticwebassets\\admin\\page\\page-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\page\\page-list.html",
+      "PackagePath": "staticwebassets\\admin\\page\\page-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\page\\page-list.js",
+      "PackagePath": "staticwebassets\\admin\\page\\page-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\page\\page-service.js",
+      "PackagePath": "staticwebassets\\admin\\page\\page-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\page\\page-translation-form.html",
+      "PackagePath": "staticwebassets\\admin\\page\\page-translation-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\page\\page-translation-form.js",
+      "PackagePath": "staticwebassets\\admin\\page\\page-translation-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\spacebar-widget\\spacebar-widget-form.html",
+      "PackagePath": "staticwebassets\\admin\\spacebar-widget\\spacebar-widget-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\spacebar-widget\\spacebar-widget-form.js",
+      "PackagePath": "staticwebassets\\admin\\spacebar-widget\\spacebar-widget-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Cms\\wwwroot\\admin\\spacebar-widget\\spacebar-widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\spacebar-widget\\spacebar-widget-service.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Cms.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Cms.props",
+      "PackagePath": "build\\SimplCommerce.Module.Cms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Cms.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Cms.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Cms.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Cms.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

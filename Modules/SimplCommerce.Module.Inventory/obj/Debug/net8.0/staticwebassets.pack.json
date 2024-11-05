@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\inventory.module.js",
+      "PackagePath": "staticwebassets\\admin\\inventory.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\stock\\stock-form.html",
+      "PackagePath": "staticwebassets\\admin\\stock\\stock-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\stock\\stock-form.js",
+      "PackagePath": "staticwebassets\\admin\\stock\\stock-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\stock\\stock-history.html",
+      "PackagePath": "staticwebassets\\admin\\stock\\stock-history.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\stock\\stock-history.js",
+      "PackagePath": "staticwebassets\\admin\\stock\\stock-history.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\stock\\stock-service.js",
+      "PackagePath": "staticwebassets\\admin\\stock\\stock-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\warehouse\\manage-products-form.html",
+      "PackagePath": "staticwebassets\\admin\\warehouse\\manage-products-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\warehouse\\manage-products-form.js",
+      "PackagePath": "staticwebassets\\admin\\warehouse\\manage-products-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\warehouse\\warehouse-form.html",
+      "PackagePath": "staticwebassets\\admin\\warehouse\\warehouse-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\warehouse\\warehouse-form.js",
+      "PackagePath": "staticwebassets\\admin\\warehouse\\warehouse-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\warehouse\\warehouse-list.html",
+      "PackagePath": "staticwebassets\\admin\\warehouse\\warehouse-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\warehouse\\warehouse-list.js",
+      "PackagePath": "staticwebassets\\admin\\warehouse\\warehouse-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Inventory\\wwwroot\\admin\\warehouse\\warehouse-service.js",
+      "PackagePath": "staticwebassets\\admin\\warehouse\\warehouse-service.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Inventory.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Inventory.props",
+      "PackagePath": "build\\SimplCommerce.Module.Inventory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Inventory.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Inventory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Inventory.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Inventory.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

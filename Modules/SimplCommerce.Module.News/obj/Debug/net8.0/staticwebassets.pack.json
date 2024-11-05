@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-categories\\news-category-form.html",
+      "PackagePath": "staticwebassets\\admin\\news-categories\\news-category-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-categories\\news-category-form.js",
+      "PackagePath": "staticwebassets\\admin\\news-categories\\news-category-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-categories\\news-category-list.html",
+      "PackagePath": "staticwebassets\\admin\\news-categories\\news-category-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-categories\\news-category-list.js",
+      "PackagePath": "staticwebassets\\admin\\news-categories\\news-category-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-categories\\news-category-service.js",
+      "PackagePath": "staticwebassets\\admin\\news-categories\\news-category-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-items\\news-item-form.html",
+      "PackagePath": "staticwebassets\\admin\\news-items\\news-item-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-items\\news-item-form.js",
+      "PackagePath": "staticwebassets\\admin\\news-items\\news-item-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-items\\news-item-list.html",
+      "PackagePath": "staticwebassets\\admin\\news-items\\news-item-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-items\\news-item-list.js",
+      "PackagePath": "staticwebassets\\admin\\news-items\\news-item-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news-items\\news-item-service.js",
+      "PackagePath": "staticwebassets\\admin\\news-items\\news-item-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.News\\wwwroot\\admin\\news.module.js",
+      "PackagePath": "staticwebassets\\admin\\news.module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.News.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.News.props",
+      "PackagePath": "build\\SimplCommerce.Module.News.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.News.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.News.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.News.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.News.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

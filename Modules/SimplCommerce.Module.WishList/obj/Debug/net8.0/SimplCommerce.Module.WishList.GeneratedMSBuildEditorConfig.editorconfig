@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SimplCommerce.Module.WishList
+build_property.RootNamespace = SimplCommerce.Module.WishList
+build_property.ProjectDir = D:\C#\C_Net\Clone\SimplCommerce\src\Modules\SimplCommerce.Module.WishList\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\C#\C_Net\Clone\SimplCommerce\src\Modules\SimplCommerce.Module.WishList
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.WishList/Areas/WishList/Views/WishList/AddToWishListResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2lzaExpc3RcVmlld3NcV2lzaExpc3RcQWRkVG9XaXNoTGlzdFJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.WishList/Areas/WishList/Views/WishList/PrivateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2lzaExpc3RcVmlld3NcV2lzaExpc3RcUHJpdmF0ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.WishList/Areas/WishList/Views/WishList/PublicList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2lzaExpc3RcVmlld3NcV2lzaExpc3RcUHVibGljTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.WishList/Areas/WishList/Views/WishList/Share.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2lzaExpc3RcVmlld3NcV2lzaExpc3RcU2hhcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.WishList/Areas/WishList/Views/WishList/UpdateItemResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2lzaExpc3RcVmlld3NcV2lzaExpc3RcVXBkYXRlSXRlbVJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.WishList/Areas/WishList/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2lzaExpc3RcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.WishList/Areas/WishList/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV2lzaExpc3RcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

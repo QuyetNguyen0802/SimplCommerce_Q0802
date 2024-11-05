@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SimplCommerce.Module.Contacts
+build_property.RootNamespace = SimplCommerce.Module.Contacts
+build_property.ProjectDir = D:\C#\C_Net\Clone\SimplCommerce\src\Modules\SimplCommerce.Module.Contacts\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\C#\C_Net\Clone\SimplCommerce\src\Modules\SimplCommerce.Module.Contacts
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.Contacts/Areas/Contacts/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29udGFjdHNcVmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.Contacts/Areas/Contacts/Views/Contact/SubmitContactResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29udGFjdHNcVmlld3NcQ29udGFjdFxTdWJtaXRDb250YWN0UmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.Contacts/Areas/Contacts/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29udGFjdHNcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/Modules/SimplCommerce.Module.Contacts/Areas/Contacts/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ29udGFjdHNcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

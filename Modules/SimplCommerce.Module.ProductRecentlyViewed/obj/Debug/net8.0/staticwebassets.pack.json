@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ProductRecentlyViewed\\wwwroot\\admin\\productrecentlyviewed.module.js",
+      "PackagePath": "staticwebassets\\admin\\productrecentlyviewed.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ProductRecentlyViewed\\wwwroot\\admin\\recently-viewed-widget\\recently-viewed-widget-form.html",
+      "PackagePath": "staticwebassets\\admin\\recently-viewed-widget\\recently-viewed-widget-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ProductRecentlyViewed\\wwwroot\\admin\\recently-viewed-widget\\recently-viewed-widget-form.js",
+      "PackagePath": "staticwebassets\\admin\\recently-viewed-widget\\recently-viewed-widget-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ProductRecentlyViewed\\wwwroot\\admin\\recently-viewed-widget\\recently-viewed-widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\recently-viewed-widget\\recently-viewed-widget-service.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.ProductRecentlyViewed.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.ProductRecentlyViewed.props",
+      "PackagePath": "build\\SimplCommerce.Module.ProductRecentlyViewed.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.ProductRecentlyViewed.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.ProductRecentlyViewed.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.ProductRecentlyViewed.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.ProductRecentlyViewed.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

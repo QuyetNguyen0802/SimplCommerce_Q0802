@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ActivityLog\\wwwroot\\admin\\activitylog-service.js",
+      "PackagePath": "staticwebassets\\admin\\activitylog-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ActivityLog\\wwwroot\\admin\\activitylog.module.js",
+      "PackagePath": "staticwebassets\\admin\\activitylog.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ActivityLog\\wwwroot\\admin\\most-viewed-products.directive.html",
+      "PackagePath": "staticwebassets\\admin\\most-viewed-products.directive.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.ActivityLog\\wwwroot\\admin\\most-viewed-products.directive.js",
+      "PackagePath": "staticwebassets\\admin\\most-viewed-products.directive.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.ActivityLog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.ActivityLog.props",
+      "PackagePath": "build\\SimplCommerce.Module.ActivityLog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.ActivityLog.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.ActivityLog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.ActivityLog.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.ActivityLog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

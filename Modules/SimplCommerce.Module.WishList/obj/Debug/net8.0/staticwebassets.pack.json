@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.WishList\\wwwroot\\private-list.css",
+      "PackagePath": "staticwebassets\\private-list.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.WishList\\wwwroot\\public-list.css",
+      "PackagePath": "staticwebassets\\public-list.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.WishList\\wwwroot\\wishlist.js",
+      "PackagePath": "staticwebassets\\wishlist.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.WishList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.WishList.props",
+      "PackagePath": "build\\SimplCommerce.Module.WishList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.WishList.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.WishList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.WishList.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.WishList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

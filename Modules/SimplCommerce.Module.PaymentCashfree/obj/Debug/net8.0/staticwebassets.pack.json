@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCashfree\\wwwroot\\admin\\cashfree\\cashfree-config-form.html",
+      "PackagePath": "staticwebassets\\admin\\cashfree\\cashfree-config-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCashfree\\wwwroot\\admin\\cashfree\\cashfree-config-form.js",
+      "PackagePath": "staticwebassets\\admin\\cashfree\\cashfree-config-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCashfree\\wwwroot\\admin\\cashfree\\cashfree-service.js",
+      "PackagePath": "staticwebassets\\admin\\cashfree\\cashfree-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCashfree\\wwwroot\\admin\\paymentCashfree.module.js",
+      "PackagePath": "staticwebassets\\admin\\paymentCashfree.module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.PaymentCashfree.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.PaymentCashfree.props",
+      "PackagePath": "build\\SimplCommerce.Module.PaymentCashfree.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.PaymentCashfree.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.PaymentCashfree.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.PaymentCashfree.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.PaymentCashfree.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

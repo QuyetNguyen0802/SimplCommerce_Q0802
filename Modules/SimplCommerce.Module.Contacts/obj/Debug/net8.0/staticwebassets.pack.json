@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contact-area\\contact-area-form.html",
+      "PackagePath": "staticwebassets\\admin\\contact-area\\contact-area-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contact-area\\contact-area-form.js",
+      "PackagePath": "staticwebassets\\admin\\contact-area\\contact-area-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contact-area\\contact-area-list.html",
+      "PackagePath": "staticwebassets\\admin\\contact-area\\contact-area-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contact-area\\contact-area-list.js",
+      "PackagePath": "staticwebassets\\admin\\contact-area\\contact-area-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contact-area\\contact-area-service.js",
+      "PackagePath": "staticwebassets\\admin\\contact-area\\contact-area-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contact-area\\contact-area-translation-form.html",
+      "PackagePath": "staticwebassets\\admin\\contact-area\\contact-area-translation-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contact-area\\contact-area-translation-form.js",
+      "PackagePath": "staticwebassets\\admin\\contact-area\\contact-area-translation-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contacts.module.js",
+      "PackagePath": "staticwebassets\\admin\\contacts.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contacts\\contact-list.html",
+      "PackagePath": "staticwebassets\\admin\\contacts\\contact-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contacts\\contact-list.js",
+      "PackagePath": "staticwebassets\\admin\\contacts\\contact-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contacts\\contact-service.js",
+      "PackagePath": "staticwebassets\\admin\\contacts\\contact-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contacts\\contact.html",
+      "PackagePath": "staticwebassets\\admin\\contacts\\contact.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\admin\\contacts\\contact.js",
+      "PackagePath": "staticwebassets\\admin\\contacts\\contact.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Contacts\\wwwroot\\init-google-map.js",
+      "PackagePath": "staticwebassets\\init-google-map.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Contacts.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Contacts.props",
+      "PackagePath": "build\\SimplCommerce.Module.Contacts.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Contacts.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Contacts.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Contacts.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Contacts.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

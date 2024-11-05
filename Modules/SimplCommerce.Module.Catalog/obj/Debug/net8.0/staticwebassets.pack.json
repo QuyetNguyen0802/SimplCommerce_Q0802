@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\1009.gif",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\1009.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\21meTyhQebL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\21meTyhQebL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31EPGSm2s1L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31EPGSm2s1L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31LAnW1JFqL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31LAnW1JFqL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31TB6tC6BOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31TB6tC6BOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31YOss-gC-L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31YOss-gC-L._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31hCgES5GXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31hCgES5GXL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31ioCUUFnoL.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31ioCUUFnoL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31jsjfVfH9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31jsjfVfH9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31ncPnMYCxL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31ncPnMYCxL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31pAGovVENL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31pAGovVENL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31pT+SdvQXL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31pT+SdvQXL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\31yxRemzRLL._SS350_ (1).jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\31yxRemzRLL._SS350_ (1).jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41-yvkFqVZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41-yvkFqVZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\410PjzqoC8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\410PjzqoC8L._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\415cOCbey.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\415cOCbey.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\415cOCbeyML.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\415cOCbeyML.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\416OcTXFfeL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\416OcTXFfeL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\416pdroSEkL.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\416pdroSEkL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\419WCoqfamL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\419WCoqfamL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41A9R5KXCXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41A9R5KXCXL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41BiMx1FKyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41BiMx1FKyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41CIcYRxJKL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41CIcYRxJKL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41G38jC0ajL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41G38jC0ajL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41GVLtgNngL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41GVLtgNngL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41IPLmZIKhL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41IPLmZIKhL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41KALboJKuL.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41KALboJKuL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41LMouG6j7L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41LMouG6j7L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41MJUdI2jdL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41MJUdI2jdL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41Pg1ahql8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41Pg1ahql8L._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41RxtSQOd2L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41RxtSQOd2L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41TexqWVkHL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41TexqWVkHL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41V4Ds2PtZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41V4Ds2PtZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41WvZnGYUkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41WvZnGYUkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41XX7Pi240L.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41XX7Pi240L.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41Ymq8fjbOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41Ymq8fjbOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41Z43OmFHjL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41Z43OmFHjL._SX342_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41ZE9SmWdzL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41ZE9SmWdzL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41brDHtPY9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41brDHtPY9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41iDo0HDhbL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41iDo0HDhbL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41iji4-9UsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41iji4-9UsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41lffECD-sL._SY445_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41lffECD-sL._SY445_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41qfgTvFBwL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41qfgTvFBwL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41qlcUEhNmL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41qlcUEhNmL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41riQRGf-6L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41riQRGf-6L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41sd2DTD8EL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41sd2DTD8EL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41sdBTtnUDL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41sdBTtnUDL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41sl3FN6NpL.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41sl3FN6NpL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41sw9ASUvBL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41sw9ASUvBL._SX342_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41w4TlVPhGL.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41w4TlVPhGL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41wHu2N4tVL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41wHu2N4tVL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41yh1vBmqsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41yh1vBmqsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\41zxxR71G+L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\41zxxR71G+L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51+4d3VBFvL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51+4d3VBFvL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\513UnnRfFML._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\513UnnRfFML._SL1001_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\515p1IeP0-L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\515p1IeP0-L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\5195-l+nflL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\5195-l+nflL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51GBNkHO6vL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51GBNkHO6vL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51JhyHtnEgL._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51JhyHtnEgL._SL1001_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51Lj5bxbNtL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51Lj5bxbNtL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51Z9tfgl4aL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51Z9tfgl4aL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51czOOat0OL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51czOOat0OL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51l46qQB50L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51l46qQB50L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51nukXFJLJL.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51nukXFJLJL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51pvLIvb6ZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51pvLIvb6ZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51s6pbRlNyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51s6pbRlNyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51uJ-pWfc9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51uJ-pWfc9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51vxcBS1sQL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51vxcBS1sQL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51w+JqOnmSL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51w+JqOnmSL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51y46IslQkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51y46IslQkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\51yomC0EodL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\51yomC0EodL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\71bJrFAys9L._SL1280_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\71bJrFAys9L._SL1280_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\71cBwWAgvIL._SL1430_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\71cBwWAgvIL._SL1430_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\816zGZv1ORL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\816zGZv1ORL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\81Q1DvOnnoL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\81Q1DvOnnoL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\81k1XbQ6nQL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\81k1XbQ6nQL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\91FM0Hog9FL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\91FM0Hog9FL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\91JUBDf1jTL._AA1500_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\91JUBDf1jTL._AA1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\91T2BjUkYmL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\91T2BjUkYmL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\Camera1.jpg",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\Camera1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\Accessory\\Images\\To.gif",
+      "PackagePath": "staticwebassets\\Accessory\\Images\\To.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\accessory-filter.js",
+      "PackagePath": "staticwebassets\\accessory-filter.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\brand\\brand-form.html",
+      "PackagePath": "staticwebassets\\admin\\brand\\brand-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\brand\\brand-form.js",
+      "PackagePath": "staticwebassets\\admin\\brand\\brand-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\brand\\brand-list.html",
+      "PackagePath": "staticwebassets\\admin\\brand\\brand-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\brand\\brand-list.js",
+      "PackagePath": "staticwebassets\\admin\\brand\\brand-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\brand\\brand-service.js",
+      "PackagePath": "staticwebassets\\admin\\brand\\brand-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\catalog.module.js",
+      "PackagePath": "staticwebassets\\admin\\catalog.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category-widget\\category-widget-form.html",
+      "PackagePath": "staticwebassets\\admin\\category-widget\\category-widget-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category-widget\\category-widget-form.js",
+      "PackagePath": "staticwebassets\\admin\\category-widget\\category-widget-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category-widget\\category-widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\category-widget\\category-widget-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category\\category-form.html",
+      "PackagePath": "staticwebassets\\admin\\category\\category-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category\\category-form.js",
+      "PackagePath": "staticwebassets\\admin\\category\\category-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category\\category-list.html",
+      "PackagePath": "staticwebassets\\admin\\category\\category-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category\\category-list.js",
+      "PackagePath": "staticwebassets\\admin\\category\\category-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category\\category-service.js",
+      "PackagePath": "staticwebassets\\admin\\category\\category-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category\\category-translation-form.html",
+      "PackagePath": "staticwebassets\\admin\\category\\category-translation-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\category\\category-translation-form.js",
+      "PackagePath": "staticwebassets\\admin\\category\\category-translation-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute-group\\product-attribute-group-form.html",
+      "PackagePath": "staticwebassets\\admin\\product-attribute-group\\product-attribute-group-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute-group\\product-attribute-group-form.js",
+      "PackagePath": "staticwebassets\\admin\\product-attribute-group\\product-attribute-group-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute-group\\product-attribute-group-list.html",
+      "PackagePath": "staticwebassets\\admin\\product-attribute-group\\product-attribute-group-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute-group\\product-attribute-group-list.js",
+      "PackagePath": "staticwebassets\\admin\\product-attribute-group\\product-attribute-group-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute-group\\product-attribute-group-service.js",
+      "PackagePath": "staticwebassets\\admin\\product-attribute-group\\product-attribute-group-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute\\product-attribute-form.html",
+      "PackagePath": "staticwebassets\\admin\\product-attribute\\product-attribute-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute\\product-attribute-form.js",
+      "PackagePath": "staticwebassets\\admin\\product-attribute\\product-attribute-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute\\product-attribute-list.html",
+      "PackagePath": "staticwebassets\\admin\\product-attribute\\product-attribute-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute\\product-attribute-list.js",
+      "PackagePath": "staticwebassets\\admin\\product-attribute\\product-attribute-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-attribute\\product-attribute-service.js",
+      "PackagePath": "staticwebassets\\admin\\product-attribute\\product-attribute-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-clone\\product-clone-form.html",
+      "PackagePath": "staticwebassets\\admin\\product-clone\\product-clone-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-clone\\product-clone-form.js",
+      "PackagePath": "staticwebassets\\admin\\product-clone\\product-clone-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-clone\\product-clone-service.js",
+      "PackagePath": "staticwebassets\\admin\\product-clone\\product-clone-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-option\\product-option-form.html",
+      "PackagePath": "staticwebassets\\admin\\product-option\\product-option-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-option\\product-option-form.js",
+      "PackagePath": "staticwebassets\\admin\\product-option\\product-option-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-option\\product-option-list.html",
+      "PackagePath": "staticwebassets\\admin\\product-option\\product-option-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-option\\product-option-list.js",
+      "PackagePath": "staticwebassets\\admin\\product-option\\product-option-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-option\\product-option-service.js",
+      "PackagePath": "staticwebassets\\admin\\product-option\\product-option-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-price\\product-price-form.html",
+      "PackagePath": "staticwebassets\\admin\\product-price\\product-price-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-price\\product-price-form.js",
+      "PackagePath": "staticwebassets\\admin\\product-price\\product-price-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-price\\product-price-service.js",
+      "PackagePath": "staticwebassets\\admin\\product-price\\product-price-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-template\\product-template-form.html",
+      "PackagePath": "staticwebassets\\admin\\product-template\\product-template-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-template\\product-template-form.js",
+      "PackagePath": "staticwebassets\\admin\\product-template\\product-template-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-template\\product-template-list.html",
+      "PackagePath": "staticwebassets\\admin\\product-template\\product-template-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-template\\product-template-list.js",
+      "PackagePath": "staticwebassets\\admin\\product-template\\product-template-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-template\\product-template-service.js",
+      "PackagePath": "staticwebassets\\admin\\product-template\\product-template-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-widget\\product-widget-form.html",
+      "PackagePath": "staticwebassets\\admin\\product-widget\\product-widget-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-widget\\product-widget-form.js",
+      "PackagePath": "staticwebassets\\admin\\product-widget\\product-widget-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product-widget\\product-widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\product-widget\\product-widget-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-form.html",
+      "PackagePath": "staticwebassets\\admin\\product\\product-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-form.js",
+      "PackagePath": "staticwebassets\\admin\\product\\product-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-list.html",
+      "PackagePath": "staticwebassets\\admin\\product\\product-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-list.js",
+      "PackagePath": "staticwebassets\\admin\\product\\product-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-option-display-directive.html",
+      "PackagePath": "staticwebassets\\admin\\product\\product-option-display-directive.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-option-display-directive.js",
+      "PackagePath": "staticwebassets\\admin\\product\\product-option-display-directive.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-selection-directive.html",
+      "PackagePath": "staticwebassets\\admin\\product\\product-selection-directive.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-selection-directive.js",
+      "PackagePath": "staticwebassets\\admin\\product\\product-selection-directive.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-service.js",
+      "PackagePath": "staticwebassets\\admin\\product\\product-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-translation-form.html",
+      "PackagePath": "staticwebassets\\admin\\product\\product-translation-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\product\\product-translation-form.js",
+      "PackagePath": "staticwebassets\\admin\\product\\product-translation-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\simple-product-widget\\simple-product-widget-form.html",
+      "PackagePath": "staticwebassets\\admin\\simple-product-widget\\simple-product-widget-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\simple-product-widget\\simple-product-widget-form.js",
+      "PackagePath": "staticwebassets\\admin\\simple-product-widget\\simple-product-widget-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\admin\\simple-product-widget\\simple-product-widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\simple-product-widget\\simple-product-widget-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\product-detail.css",
+      "PackagePath": "staticwebassets\\product-detail.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\product-detail.js",
+      "PackagePath": "staticwebassets\\product-detail.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\product-filter.js",
+      "PackagePath": "staticwebassets\\product-filter.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Catalog\\wwwroot\\product-overview.js",
+      "PackagePath": "staticwebassets\\product-overview.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Catalog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Catalog.props",
+      "PackagePath": "build\\SimplCommerce.Module.Catalog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Catalog.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Catalog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Catalog.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Catalog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

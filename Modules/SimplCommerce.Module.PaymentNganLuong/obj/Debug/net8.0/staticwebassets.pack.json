@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentNganLuong\\wwwroot\\admin\\ngan-luong\\ngan-luong-config-form.html",
+      "PackagePath": "staticwebassets\\admin\\ngan-luong\\ngan-luong-config-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentNganLuong\\wwwroot\\admin\\ngan-luong\\ngan-luong-config-form.js",
+      "PackagePath": "staticwebassets\\admin\\ngan-luong\\ngan-luong-config-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentNganLuong\\wwwroot\\admin\\ngan-luong\\ngan-luong-service.js",
+      "PackagePath": "staticwebassets\\admin\\ngan-luong\\ngan-luong-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentNganLuong\\wwwroot\\admin\\paymentNganLuong.module.js",
+      "PackagePath": "staticwebassets\\admin\\paymentNganLuong.module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.PaymentNganLuong.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.PaymentNganLuong.props",
+      "PackagePath": "build\\SimplCommerce.Module.PaymentNganLuong.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.PaymentNganLuong.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.PaymentNganLuong.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.PaymentNganLuong.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.PaymentNganLuong.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

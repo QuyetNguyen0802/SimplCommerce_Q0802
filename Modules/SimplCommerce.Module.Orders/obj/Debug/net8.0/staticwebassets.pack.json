@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-create.html",
+      "PackagePath": "staticwebassets\\admin\\order\\order-create.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-create.js",
+      "PackagePath": "staticwebassets\\admin\\order\\order-create.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-detail.html",
+      "PackagePath": "staticwebassets\\admin\\order\\order-detail.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-detail.js",
+      "PackagePath": "staticwebassets\\admin\\order\\order-detail.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-list.html",
+      "PackagePath": "staticwebassets\\admin\\order\\order-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-list.js",
+      "PackagePath": "staticwebassets\\admin\\order\\order-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-service.js",
+      "PackagePath": "staticwebassets\\admin\\order\\order-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-widget.directive.html",
+      "PackagePath": "staticwebassets\\admin\\order\\order-widget.directive.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\order\\order-widget.directive.js",
+      "PackagePath": "staticwebassets\\admin\\order\\order-widget.directive.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\admin\\orders.module.js",
+      "PackagePath": "staticwebassets\\admin\\orders.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Orders\\wwwroot\\checkout.js",
+      "PackagePath": "staticwebassets\\checkout.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Orders.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Orders.props",
+      "PackagePath": "build\\SimplCommerce.Module.Orders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Orders.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Orders.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Orders.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Orders.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

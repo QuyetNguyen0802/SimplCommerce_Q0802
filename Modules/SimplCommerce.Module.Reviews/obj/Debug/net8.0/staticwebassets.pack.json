@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-list.html",
+      "PackagePath": "staticwebassets\\admin\\review\\review-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-list.js",
+      "PackagePath": "staticwebassets\\admin\\review\\review-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-reply-list.html",
+      "PackagePath": "staticwebassets\\admin\\review\\review-reply-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-reply-list.js",
+      "PackagePath": "staticwebassets\\admin\\review\\review-reply-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-reply-service.js",
+      "PackagePath": "staticwebassets\\admin\\review\\review-reply-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-reply-widget.directive.html",
+      "PackagePath": "staticwebassets\\admin\\review\\review-reply-widget.directive.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-reply-widget.directive.js",
+      "PackagePath": "staticwebassets\\admin\\review\\review-reply-widget.directive.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-service.js",
+      "PackagePath": "staticwebassets\\admin\\review\\review-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-widget.directive.html",
+      "PackagePath": "staticwebassets\\admin\\review\\review-widget.directive.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\review\\review-widget.directive.js",
+      "PackagePath": "staticwebassets\\admin\\review\\review-widget.directive.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\admin\\reviews.module.js",
+      "PackagePath": "staticwebassets\\admin\\reviews.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\list.css",
+      "PackagePath": "staticwebassets\\list.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Reviews\\wwwroot\\list.js",
+      "PackagePath": "staticwebassets\\list.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Reviews.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Reviews.props",
+      "PackagePath": "build\\SimplCommerce.Module.Reviews.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Reviews.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Reviews.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Reviews.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Reviews.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,4807 @@
+[
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.AccessoryApiController",
+    "Method": "Get",
+    "RelativePath": "api/accessories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.AccessoryApiController",
+    "Method": "Post",
+    "RelativePath": "api/accessories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Models.Accessory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.AccessoryApiController",
+    "Method": "Get",
+    "RelativePath": "api/accessories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.AccessoryApiController",
+    "Method": "GetWithKeysetPagination",
+    "RelativePath": "api/accessories/GetWithKeysetPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reference",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.AccessoryApiController",
+    "Method": "GetWithOffsetPagination",
+    "RelativePath": "api/accessories/GetWithOffsetPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ActivityLog.Areas.ActivityLog.Controllers.MostViewedEntityController",
+    "Method": "GetMostViewedEntities",
+    "RelativePath": "api/activitylog/most-viewed-entities/{entityTypeId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entityTypeId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.ActivityLog.Models.MostViewEntityDto, SimplCommerce.Module.ActivityLog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.AppSettingApiController",
+    "Method": "Get",
+    "RelativePath": "api/appsettings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Core.Areas.Core.ViewModels.AppSettingVm, SimplCommerce.Module.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.AppSettingApiController",
+    "Method": "Put",
+    "RelativePath": "api/appsettings",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Core.Areas.Core.ViewModels.AppSettingVm, SimplCommerce.Module.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.BrandApiController",
+    "Method": "Get",
+    "RelativePath": "api/brands",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.BrandVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.BrandApiController",
+    "Method": "Post",
+    "RelativePath": "api/brands",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.BrandForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.BrandApiController",
+    "Method": "Get",
+    "RelativePath": "api/brands/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.BrandVm",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.BrandApiController",
+    "Method": "Put",
+    "RelativePath": "api/brands/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.BrandForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.BrandApiController",
+    "Method": "Delete",
+    "RelativePath": "api/brands/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.CarouselWidgetApiController",
+    "Method": "Post",
+    "RelativePath": "api/carousel-widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Items",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Cms.Areas.Cms.ViewModels.CarouselWidgetItemForm, SimplCommerce.Module.Cms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "WidgetZoneId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "PublishStart",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PublishEnd",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "DisplayOrder",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.CarouselWidgetApiController",
+    "Method": "Get",
+    "RelativePath": "api/carousel-widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.CarouselWidgetForm",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.CarouselWidgetApiController",
+    "Method": "Put",
+    "RelativePath": "api/carousel-widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "Items",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Cms.Areas.Cms.ViewModels.CarouselWidgetItemForm, SimplCommerce.Module.Cms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "WidgetZoneId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "PublishStart",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "PublishEnd",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "DisplayOrder",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Pricing.Areas.Pricing.Controllers.CartRuleUsageApiController",
+    "Method": "List",
+    "RelativePath": "api/cart-rule-usages/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Pricing.Areas.Pricing.Controllers.CartRuleApiController",
+    "Method": "Post",
+    "RelativePath": "api/cart-rules",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Pricing.Areas.Pricing.ViewModels.CartRuleForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Pricing.Areas.Pricing.Controllers.CartRuleApiController",
+    "Method": "Get",
+    "RelativePath": "api/cart-rules/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Pricing.Areas.Pricing.Controllers.CartRuleApiController",
+    "Method": "Put",
+    "RelativePath": "api/cart-rules/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Pricing.Areas.Pricing.ViewModels.CartRuleForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Pricing.Areas.Pricing.Controllers.CartRuleApiController",
+    "Method": "Delete",
+    "RelativePath": "api/cart-rules/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Pricing.Areas.Pricing.Controllers.CartRuleApiController",
+    "Method": "List",
+    "RelativePath": "api/cart-rules/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentCashfree.Areas.PaymentCashfree.Controllers.CashfreeApiController",
+    "Method": "Config",
+    "RelativePath": "api/cashfree/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentCashfree.Areas.PaymentCashfree.Controllers.CashfreeApiController",
+    "Method": "Config",
+    "RelativePath": "api/cashfree/config",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.PaymentCashfree.Areas.PaymentCashfree.ViewModels.CashfreeConfigForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryApiController",
+    "Method": "Get",
+    "RelativePath": "api/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryApiController",
+    "Method": "Post",
+    "RelativePath": "api/categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Slug",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaKeywords",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DisplayOrder",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ParentId",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "IncludeInMenu",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsPublished",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryApiController",
+    "Method": "Get",
+    "RelativePath": "api/categories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryApiController",
+    "Method": "Put",
+    "RelativePath": "api/categories/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "Slug",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaKeywords",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DisplayOrder",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ParentId",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "IncludeInMenu",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsPublished",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryApiController",
+    "Method": "Delete",
+    "RelativePath": "api/categories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryApiController",
+    "Method": "GetProducts",
+    "RelativePath": "api/categories/{id}/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryApiController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/categories/update-product/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductCategoryForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryTranslationApiController",
+    "Method": "Get",
+    "RelativePath": "api/category-translations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryTranslationApiController",
+    "Method": "Put",
+    "RelativePath": "api/category-translations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.CategoryTranslationForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryWidgetApiController",
+    "Method": "Post",
+    "RelativePath": "api/category-widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.CategoryWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryWidgetApiController",
+    "Method": "Get",
+    "RelativePath": "api/category-widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.CategoryWidgetApiController",
+    "Method": "Put",
+    "RelativePath": "api/category-widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.CategoryWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.CheckoutApiController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/checkout/{checkoutId}/order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkoutId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "deliveryInformationVm",
+        "Type": "SimplCommerce.Module.Checkouts.Areas.Checkouts.ViewModels.DeliveryInformationVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.CheckoutApiController",
+    "Method": "UpdateTaxAndShippingPrices",
+    "RelativePath": "api/checkout/{checkoutId}/update-tax-and-shipping-prices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "checkoutId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Checkouts.Areas.Checkouts.ViewModels.TaxAndShippingPriceRequestVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentCoD.Areas.PaymentCoD.Controllers.CoDApiController",
+    "Method": "Config",
+    "RelativePath": "api/cod/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentCoD.Areas.PaymentCoD.Controllers.CoDApiController",
+    "Method": "Config",
+    "RelativePath": "api/cod/config",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.PaymentCoD.Models.CoDSetting",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Comments.Areas.Comments.Controllers.CommentApiController",
+    "Method": "Get",
+    "RelativePath": "api/comments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "numRecords",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Comments.Areas.Comments.Controllers.CommentApiController",
+    "Method": "ChangeStatus",
+    "RelativePath": "api/comments/change-status/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "statusId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Comments.Areas.Comments.Controllers.CommentApiController",
+    "Method": "List",
+    "RelativePath": "api/comments/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CommonApiController",
+    "Method": "UploadFile",
+    "RelativePath": "api/common/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactAreaApiController",
+    "Method": "Get",
+    "RelativePath": "api/contact-area",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactAreaApiController",
+    "Method": "Post",
+    "RelativePath": "api/contact-area",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Contacts.Areas.Contacts.ViewModels.ContactAreaForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactAreaTranslationApiController",
+    "Method": "Get",
+    "RelativePath": "api/contact-area-translations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactAreaTranslationApiController",
+    "Method": "Put",
+    "RelativePath": "api/contact-area-translations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Contacts.Areas.Contacts.ViewModels.ContactAreaTranslationForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactAreaApiController",
+    "Method": "Get",
+    "RelativePath": "api/contact-area/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactAreaApiController",
+    "Method": "Put",
+    "RelativePath": "api/contact-area/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Contacts.Areas.Contacts.ViewModels.ContactAreaForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactAreaApiController",
+    "Method": "Delete",
+    "RelativePath": "api/contact-area/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactApiController",
+    "Method": "Get",
+    "RelativePath": "api/contacts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactApiController",
+    "Method": "Delete",
+    "RelativePath": "api/contacts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Contacts.Areas.Contacts.Controllers.ContactApiController",
+    "Method": "Get",
+    "RelativePath": "api/contacts/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CountryApiController",
+    "Method": "Get",
+    "RelativePath": "api/countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shippingEnabled",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CountryApiController",
+    "Method": "Post",
+    "RelativePath": "api/countries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.CountryForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.StateOrProvinceApiController",
+    "Method": "GetStatesOrProvinces",
+    "RelativePath": "api/countries/{countryId}/states-provinces",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CountryApiController",
+    "Method": "Get",
+    "RelativePath": "api/countries/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CountryApiController",
+    "Method": "Put",
+    "RelativePath": "api/countries/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.CountryForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CountryApiController",
+    "Method": "Delete",
+    "RelativePath": "api/countries/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CountryApiController",
+    "Method": "List",
+    "RelativePath": "api/countries/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CustomerGroupApiController",
+    "Method": "Get",
+    "RelativePath": "api/customergroups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CustomerGroupApiController",
+    "Method": "Post",
+    "RelativePath": "api/customergroups",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.CustomerGroupForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CustomerGroupApiController",
+    "Method": "Get",
+    "RelativePath": "api/customergroups/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CustomerGroupApiController",
+    "Method": "Put",
+    "RelativePath": "api/customergroups/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.CustomerGroupForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CustomerGroupApiController",
+    "Method": "Delete",
+    "RelativePath": "api/customergroups/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.CustomerGroupApiController",
+    "Method": "List",
+    "RelativePath": "api/customergroups/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.EntityApiController",
+    "Method": "Get",
+    "RelativePath": "api/entities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entityTypeId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.EntityTypeApiController",
+    "Method": "GetMenuable",
+    "RelativePath": "api/entity-types/menuable",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.HtmlWidgetApiController",
+    "Method": "Post",
+    "RelativePath": "api/html-widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.HtmlWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.HtmlWidgetApiController",
+    "Method": "Get",
+    "RelativePath": "api/html-widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.HtmlWidgetApiController",
+    "Method": "Put",
+    "RelativePath": "api/html-widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.HtmlWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.InvoiceApiController",
+    "Method": "Print",
+    "RelativePath": "api/invoices/print/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Localization.Areas.Localization.Controllers.LocalizationApiController",
+    "Method": "GetCultures",
+    "RelativePath": "api/localization/get-cultures",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Localization.Areas.Localization.Controllers.LocalizationApiController",
+    "Method": "GetResources",
+    "RelativePath": "api/localization/get-resources",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cultureId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Localization.Areas.Localization.Controllers.LocalizationApiController",
+    "Method": "GetTranslation",
+    "RelativePath": "api/localization/get-translation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Localization.Areas.Localization.Controllers.LocalizationApiController",
+    "Method": "UpdateResource",
+    "RelativePath": "api/localization/update-resources",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cultureId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Localization.Areas.Localization.ViewModel.ResourceItemVm, SimplCommerce.Module.Localization, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.MenuApiController",
+    "Method": "Get",
+    "RelativePath": "api/menus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.MenuApiController",
+    "Method": "Post",
+    "RelativePath": "api/menus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.MenuForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.MenuApiController",
+    "Method": "Get",
+    "RelativePath": "api/menus/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.MenuApiController",
+    "Method": "Put",
+    "RelativePath": "api/menus/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.MenuForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.MenuApiController",
+    "Method": "Delete",
+    "RelativePath": "api/menus/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.MenuApiController",
+    "Method": "AddItem",
+    "RelativePath": "api/menus/{id}/add-items",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Cms.Areas.Cms.ViewModels.MenuItemForm, SimplCommerce.Module.Cms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.MenuApiController",
+    "Method": "DeleteItem",
+    "RelativePath": "api/menus/delete-item/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentMomo.Areas.PaymentMomo.Controllers.MomoPaymentApiController",
+    "Method": "Config",
+    "RelativePath": "api/momo/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentMomo.Areas.PaymentMomo.Controllers.MomoPaymentApiController",
+    "Method": "Config",
+    "RelativePath": "api/momo/config",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.PaymentMomo.ViewModels.MomoPaymentConfigForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsCategoryApiController",
+    "Method": "Get",
+    "RelativePath": "api/news-categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsCategoryApiController",
+    "Method": "Post",
+    "RelativePath": "api/news-categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.News.Areas.News.ViewModels.NewsCategoryForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsCategoryApiController",
+    "Method": "Get",
+    "RelativePath": "api/news-categories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsCategoryApiController",
+    "Method": "Put",
+    "RelativePath": "api/news-categories/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.News.Areas.News.ViewModels.NewsCategoryForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsCategoryApiController",
+    "Method": "Delete",
+    "RelativePath": "api/news-categories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsItemApiController",
+    "Method": "Post",
+    "RelativePath": "api/news-items",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Slug",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaKeywords",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ShortContent",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FullContent",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsPublished",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewsCategoryIds",
+        "Type": "System.Collections.Generic.IList\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsItemApiController",
+    "Method": "Get",
+    "RelativePath": "api/news-items/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsItemApiController",
+    "Method": "Put",
+    "RelativePath": "api/news-items/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Slug",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaKeywords",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MetaDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ShortContent",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FullContent",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsPublished",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NewsCategoryIds",
+        "Type": "System.Collections.Generic.IList\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsItemApiController",
+    "Method": "Delete",
+    "RelativePath": "api/news-items/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.News.Areas.News.Controllers.NewsItemApiController",
+    "Method": "Get",
+    "RelativePath": "api/news-items/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentNganLuong.Areas.PaymentNganLuong.Controllers.NganLuongApiController",
+    "Method": "Config",
+    "RelativePath": "api/ngan-luong/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentNganLuong.Areas.PaymentNganLuong.Controllers.NganLuongApiController",
+    "Method": "Config",
+    "RelativePath": "api/ngan-luong/config",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.PaymentNganLuong.ViewModels.NganLuongConfigForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.ThemeApiController",
+    "Method": "GetOnlineThemes",
+    "RelativePath": "api/online-themes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.ThemeApiController",
+    "Method": "Details",
+    "RelativePath": "api/online-themes/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.ThemeApiController",
+    "Method": "Install",
+    "RelativePath": "api/online-themes/{name}/install",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderApiController",
+    "Method": "Get",
+    "RelativePath": "api/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "numRecords",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderApiController",
+    "Method": "Get",
+    "RelativePath": "api/orders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderHistoryApiController",
+    "Method": "Get",
+    "RelativePath": "api/orders/{orderId}/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipments.Areas.Shipments.Controllers.ShipmentApiController",
+    "Method": "GetItemsToShip",
+    "RelativePath": "api/orders/{orderId}/items-to-ship",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "warehouseId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Payments.Areas.Payments.Controllers.PaymentApiController",
+    "Method": "GetByOrder",
+    "RelativePath": "api/orders/{orderId}/payments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipments.Areas.Shipments.Controllers.ShipmentApiController",
+    "Method": "GetByOrder",
+    "RelativePath": "api/orders/{orderId}/shipments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderApiController",
+    "Method": "ChangeStatus",
+    "RelativePath": "api/orders/change-order-status/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Orders.Areas.Orders.ViewModels.OrderStatusForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderApiController",
+    "Method": "Export",
+    "RelativePath": "api/orders/export",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SimplCommerce.Module.Orders.Areas.Orders.ViewModels.OrderExportVm",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderApiController",
+    "Method": "List",
+    "RelativePath": "api/orders/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderApiController",
+    "Method": "OrderLinesExport",
+    "RelativePath": "api/orders/lines-export",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SimplCommerce.Module.Orders.Areas.Orders.ViewModels.OrderLineExportVm",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderApiController",
+    "Method": "GetOrderStatus",
+    "RelativePath": "api/orders/order-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.PageTranslationApiController",
+    "Method": "Get",
+    "RelativePath": "api/page-translations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.PageTranslationApiController",
+    "Method": "Put",
+    "RelativePath": "api/page-translations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.PageTranslationForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.PageApiController",
+    "Method": "Get",
+    "RelativePath": "api/pages",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.PageApiController",
+    "Method": "Post",
+    "RelativePath": "api/pages",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.PageForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.PageApiController",
+    "Method": "Get",
+    "RelativePath": "api/pages/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.PageApiController",
+    "Method": "Put",
+    "RelativePath": "api/pages/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Cms.Areas.Cms.ViewModels.PageForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.PageApiController",
+    "Method": "Delete",
+    "RelativePath": "api/pages/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Payments.Areas.Payments.Controllers.PaymentProviderApiController",
+    "Method": "Get",
+    "RelativePath": "api/payments-providers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Payments.Areas.Payments.Controllers.PaymentProviderApiController",
+    "Method": "Disable",
+    "RelativePath": "api/payments-providers/{id}/disable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Payments.Areas.Payments.Controllers.PaymentProviderApiController",
+    "Method": "Enable",
+    "RelativePath": "api/payments-providers/{id}/enable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentPaypalExpress.Areas.PaymentPaypalExpress.Controllers.PaypalExpressApiController",
+    "Method": "Config",
+    "RelativePath": "api/paypal-express/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentPaypalExpress.Areas.PaymentPaypalExpress.Controllers.PaypalExpressApiController",
+    "Method": "Config",
+    "RelativePath": "api/paypal-express/config",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.PaymentPaypalExpress.ViewModels.PaypalExpressConfigForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeGroupApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-attribute-groups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeGroupApiController",
+    "Method": "Post",
+    "RelativePath": "api/product-attribute-groups",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductAttributeGroupFormVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeGroupApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-attribute-groups/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeGroupApiController",
+    "Method": "Put",
+    "RelativePath": "api/product-attribute-groups/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductAttributeGroupFormVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeGroupApiController",
+    "Method": "Delete",
+    "RelativePath": "api/product-attribute-groups/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeApiController",
+    "Method": "List",
+    "RelativePath": "api/product-attributes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeApiController",
+    "Method": "Post",
+    "RelativePath": "api/product-attributes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductAttributeFormVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-attributes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeApiController",
+    "Method": "Put",
+    "RelativePath": "api/product-attributes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductAttributeFormVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductAttributeApiController",
+    "Method": "Delete",
+    "RelativePath": "api/product-attributes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductCloneApiController",
+    "Method": "Post",
+    "RelativePath": "api/product-clone",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductCloneFormVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductCloneApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-clone/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductOptionApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-options",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductOptionApiController",
+    "Method": "Post",
+    "RelativePath": "api/product-options",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductOptionFormVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductOptionApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-options/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductOptionApiController",
+    "Method": "Put",
+    "RelativePath": "api/product-options/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductOptionFormVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductOptionApiController",
+    "Method": "Delete",
+    "RelativePath": "api/product-options/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductPriceApiController",
+    "Method": "Put",
+    "RelativePath": "api/product-prices",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productPriceItemForms",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductPriceItemForm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductPriceApiController",
+    "Method": "List",
+    "RelativePath": "api/product-prices/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductTemplateApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-templates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductTemplateApiController",
+    "Method": "Post",
+    "RelativePath": "api/product-templates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductTemplateFrom",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductTemplateApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-templates/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductTemplateApiController",
+    "Method": "Put",
+    "RelativePath": "api/product-templates/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductTemplateFrom",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductTemplateApiController",
+    "Method": "Delete",
+    "RelativePath": "api/product-templates/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductTranslationApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-translations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductTranslationApiController",
+    "Method": "Put",
+    "RelativePath": "api/product-translations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "culture",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductTranslationForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductWidgetApiController",
+    "Method": "Post",
+    "RelativePath": "api/product-widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductWidgetApiController",
+    "Method": "Get",
+    "RelativePath": "api/product-widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductWidgetApiController",
+    "Method": "Put",
+    "RelativePath": "api/product-widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductWidgetApiController",
+    "Method": "GetAvailableOrderBy",
+    "RelativePath": "api/product-widgets/available-orderby",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductApiController",
+    "Method": "Post",
+    "RelativePath": "api/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Product.Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.OldPrice",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.SpecialPrice",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.SpecialPriceStart",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.SpecialPriceEnd",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsCallForPricing",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsAllowToOrder",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Slug",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.MetaTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.MetaKeywords",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.MetaDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Sku",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Gtin",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ShortDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Specification",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsPublished",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsFeatured",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.StockTrackingIsEnabled",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.CategoryIds",
+        "Type": "System.Collections.Generic.IList\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Attributes",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductAttributeVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Options",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductOptionVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Variations",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductVariationVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ThumbnailImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ProductImages",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductMediaVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ProductDocuments",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductMediaVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.DeletedMediaIds",
+        "Type": "System.Collections.Generic.IList\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.BrandId",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.TaxClassId",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.RelatedProducts",
+        "Type": "System.Collections.Generic.List\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductLinkVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.CrossSellProducts",
+        "Type": "System.Collections.Generic.List\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductLinkVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductImages",
+        "Type": "System.Collections.Generic.IList\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductDocuments",
+        "Type": "System.Collections.Generic.IList\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductApiController",
+    "Method": "Get",
+    "RelativePath": "api/products/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductApiController",
+    "Method": "Put",
+    "RelativePath": "api/products/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "Product.Id",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.OldPrice",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.SpecialPrice",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.SpecialPriceStart",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.SpecialPriceEnd",
+        "Type": "System.Nullable\u00601[[System.DateTimeOffset, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsCallForPricing",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsAllowToOrder",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Slug",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.MetaTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.MetaKeywords",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.MetaDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Sku",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Gtin",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ShortDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Specification",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsPublished",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.IsFeatured",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.StockTrackingIsEnabled",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.CategoryIds",
+        "Type": "System.Collections.Generic.IList\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Attributes",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductAttributeVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Options",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductOptionVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.Variations",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductVariationVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ThumbnailImageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ProductImages",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductMediaVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.ProductDocuments",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductMediaVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.DeletedMediaIds",
+        "Type": "System.Collections.Generic.IList\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.BrandId",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.TaxClassId",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.RelatedProducts",
+        "Type": "System.Collections.Generic.List\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductLinkVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Product.CrossSellProducts",
+        "Type": "System.Collections.Generic.List\u00601[[SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.ProductLinkVm, SimplCommerce.Module.Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ThumbnailImage",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductImages",
+        "Type": "System.Collections.Generic.IList\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ProductDocuments",
+        "Type": "System.Collections.Generic.IList\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductApiController",
+    "Method": "Delete",
+    "RelativePath": "api/products/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductApiController",
+    "Method": "ChangeStatus",
+    "RelativePath": "api/products/change-status/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductApiController",
+    "Method": "List",
+    "RelativePath": "api/products/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.ProductApiController",
+    "Method": "QuickSearch",
+    "RelativePath": "api/products/quick-search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ProductRecentlyViewed.Areas.ProductRecentlyViewed.Controllers.RecentlyViewedWidgetApiController",
+    "Method": "Post",
+    "RelativePath": "api/recently-viewed-widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.ProductRecentlyViewed.Areas.ProductRecentlyViewed.ViewModels.RecentlyViewedWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ProductRecentlyViewed.Areas.ProductRecentlyViewed.Controllers.RecentlyViewedWidgetApiController",
+    "Method": "Get",
+    "RelativePath": "api/recently-viewed-widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ProductRecentlyViewed.Areas.ProductRecentlyViewed.Controllers.RecentlyViewedWidgetApiController",
+    "Method": "Put",
+    "RelativePath": "api/recently-viewed-widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.ProductRecentlyViewed.Areas.ProductRecentlyViewed.ViewModels.RecentlyViewedWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Reviews.Areas.Reviews.Controllers.ReplyApiController",
+    "Method": "Get",
+    "RelativePath": "api/review-replies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "numRecords",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Reviews.Areas.Reviews.Controllers.ReplyApiController",
+    "Method": "ChangeStatus",
+    "RelativePath": "api/review-replies/change-status/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "statusId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Reviews.Areas.Reviews.Controllers.ReplyApiController",
+    "Method": "List",
+    "RelativePath": "api/review-replies/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Reviews.Areas.Reviews.Controllers.ReviewApiController",
+    "Method": "Get",
+    "RelativePath": "api/reviews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "numRecords",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Reviews.Areas.Reviews.Controllers.ReviewApiController",
+    "Method": "ChangeStatus",
+    "RelativePath": "api/reviews/change-status/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "statusId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Reviews.Areas.Reviews.Controllers.ReviewApiController",
+    "Method": "List",
+    "RelativePath": "api/reviews/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.RoleApiController",
+    "Method": "Get",
+    "RelativePath": "api/roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Search.Areas.Search.Controllers.SearchApiController",
+    "Method": "MostSearchKeywords",
+    "RelativePath": "api/search/most-search-keywords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipments.Areas.Shipments.Controllers.ShipmentApiController",
+    "Method": "Post",
+    "RelativePath": "api/shipments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Shipments.Areas.Shipments.ViewModels.ShipmentForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipments.Areas.Shipments.Controllers.ShipmentApiController",
+    "Method": "Get",
+    "RelativePath": "api/shipments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipments.Areas.Shipments.Controllers.ShipmentApiController",
+    "Method": "List",
+    "RelativePath": "api/shipments/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipping.Areas.Shipping.Controllers.ShippingProviderApiController",
+    "Method": "Get",
+    "RelativePath": "api/shipping-providers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipping.Areas.Shipping.Controllers.ShippingProviderApiController",
+    "Method": "Disable",
+    "RelativePath": "api/shipping-providers/{id}/disable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Shipping.Areas.Shipping.Controllers.ShippingProviderApiController",
+    "Method": "Enable",
+    "RelativePath": "api/shipping-providers/{id}/enable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ShippingTableRate.Areas.ShippingTableRate.Controllers.PriceAndDestinationApiController",
+    "Method": "Get",
+    "RelativePath": "api/shippings/table-rate/price-destinations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ShippingTableRate.Areas.ShippingTableRate.Controllers.PriceAndDestinationApiController",
+    "Method": "Post",
+    "RelativePath": "api/shippings/table-rate/price-destinations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.ShippingTableRate.Areas.ShippingTableRate.ViewModels.PriceAndDestinationForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ShippingTableRate.Areas.ShippingTableRate.Controllers.PriceAndDestinationApiController",
+    "Method": "Get",
+    "RelativePath": "api/shippings/table-rate/price-destinations/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ShippingTableRate.Areas.ShippingTableRate.Controllers.PriceAndDestinationApiController",
+    "Method": "Put",
+    "RelativePath": "api/shippings/table-rate/price-destinations/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.ShippingTableRate.Areas.ShippingTableRate.ViewModels.PriceAndDestinationForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.ShippingTableRate.Areas.ShippingTableRate.Controllers.PriceAndDestinationApiController",
+    "Method": "Delete",
+    "RelativePath": "api/shippings/table-rate/price-destinations/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.SimpleProductWidgetApiController",
+    "Method": "Post",
+    "RelativePath": "api/simple-product-widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.SimpleProductWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.SimpleProductWidgetApiController",
+    "Method": "Get",
+    "RelativePath": "api/simple-product-widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Catalog.Areas.Catalog.Controllers.SimpleProductWidgetApiController",
+    "Method": "Put",
+    "RelativePath": "api/simple-product-widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Catalog.Areas.Catalog.ViewModels.SimpleProductWidgetForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.SpaceBarWidgetApiContorller",
+    "Method": "Post",
+    "RelativePath": "api/spacebar-widgets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formCollection",
+        "Type": "Microsoft.AspNetCore.Http.IFormCollection",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.SpaceBarWidgetApiContorller",
+    "Method": "Get",
+    "RelativePath": "api/spacebar-widgets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Cms.Areas.Cms.Controllers.SpaceBarWidgetApiContorller",
+    "Method": "Put",
+    "RelativePath": "api/spacebar-widgets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "formCollection",
+        "Type": "Microsoft.AspNetCore.Http.IFormCollection",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.StateOrProvinceApiController",
+    "Method": "Get",
+    "RelativePath": "api/states-provinces",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.StateOrProvinceApiController",
+    "Method": "Post",
+    "RelativePath": "api/states-provinces",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.StateOrProvinceForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.StateOrProvinceApiController",
+    "Method": "Get",
+    "RelativePath": "api/states-provinces/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.StateOrProvinceApiController",
+    "Method": "Put",
+    "RelativePath": "api/states-provinces/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.StateOrProvinceForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.StateOrProvinceApiController",
+    "Method": "Delete",
+    "RelativePath": "api/states-provinces/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.DistrictApiController",
+    "Method": "GetDistricts",
+    "RelativePath": "api/states-provinces/{stateOrProvinceId}/districts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stateOrProvinceId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.StateOrProvinceApiController",
+    "Method": "List",
+    "RelativePath": "api/states-provinces/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.StockApiController",
+    "Method": "Put",
+    "RelativePath": "api/stocks",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "warehouseId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "stockVms",
+        "Type": "System.Collections.Generic.IList\u00601[[SimplCommerce.Module.Inventory.Areas.Inventory.ViewModels.StockVm, SimplCommerce.Module.Inventory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.StockApiController",
+    "Method": "BackInStockSubscribe",
+    "RelativePath": "api/stocks/back-in-stock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "customerEmail",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.StockApiController",
+    "Method": "List",
+    "RelativePath": "api/stocks/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "warehouseId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.StockApiController",
+    "Method": "GetStockHistory",
+    "RelativePath": "api/stocks/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "warehouseId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentStripe.Areas.PaymentStripe.Controllers.StripeApiController",
+    "Method": "Config",
+    "RelativePath": "api/stripe/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.PaymentStripe.Areas.PaymentStripe.Controllers.StripeApiController",
+    "Method": "Config",
+    "RelativePath": "api/stripe/config",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.PaymentStripe.Areas.PaymentStripe.ViewModels.StripeConfigForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxClassApiController",
+    "Method": "Get",
+    "RelativePath": "api/tax-classes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxClassApiController",
+    "Method": "Post",
+    "RelativePath": "api/tax-classes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Tax.Areas.Tax.ViewModels.TaxClassForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxClassApiController",
+    "Method": "Get",
+    "RelativePath": "api/tax-classes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxClassApiController",
+    "Method": "Put",
+    "RelativePath": "api/tax-classes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Tax.Areas.Tax.ViewModels.TaxClassForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxClassApiController",
+    "Method": "Delete",
+    "RelativePath": "api/tax-classes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxClassApiController",
+    "Method": "Default",
+    "RelativePath": "api/tax-classes/default",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxRateApiController",
+    "Method": "Get",
+    "RelativePath": "api/tax-rates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxRateApiController",
+    "Method": "Post",
+    "RelativePath": "api/tax-rates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Tax.Areas.Tax.ViewModels.TaxRateForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxRateApiController",
+    "Method": "Get",
+    "RelativePath": "api/tax-rates/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxRateApiController",
+    "Method": "Put",
+    "RelativePath": "api/tax-rates/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Tax.Areas.Tax.ViewModels.TaxRateForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxRateApiController",
+    "Method": "Delete",
+    "RelativePath": "api/tax-rates/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxRateApiController",
+    "Method": "Export",
+    "RelativePath": "api/tax-rates/export",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Tax.Areas.Tax.Controllers.TaxRateApiController",
+    "Method": "Import",
+    "RelativePath": "api/tax-rates/import",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IncludeHeader",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "CsvDelimiter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CsvFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.ThemeApiController",
+    "Method": "Get",
+    "RelativePath": "api/themes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.ThemeApiController",
+    "Method": "Delete",
+    "RelativePath": "api/themes/{themeName}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "themeName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.ThemeApiController",
+    "Method": "Download",
+    "RelativePath": "api/themes/{themeName}/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "themeName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.ThemeApiController",
+    "Method": "Post",
+    "RelativePath": "api/themes/use-theme",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.ThemeListItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.UserApiController",
+    "Method": "Post",
+    "RelativePath": "api/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.UserForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.UserApiController",
+    "Method": "Get",
+    "RelativePath": "api/users/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.UserApiController",
+    "Method": "Put",
+    "RelativePath": "api/users/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Core.Areas.Core.ViewModels.UserForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.UserApiController",
+    "Method": "Delete",
+    "RelativePath": "api/users/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.CheckoutApiController",
+    "Method": "UserAddress",
+    "RelativePath": "api/users/{userId}/addresses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.UserApiController",
+    "Method": "List",
+    "RelativePath": "api/users/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.UserApiController",
+    "Method": "QuickSearch",
+    "RelativePath": "api/users/quick-search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Vendors.Areas.Vendors.Controllers.VendorApiController",
+    "Method": "Get",
+    "RelativePath": "api/vendors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Vendors.Areas.Vendors.Controllers.VendorApiController",
+    "Method": "Post",
+    "RelativePath": "api/vendors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Vendors.Areas.Vendors.ViewModels.VendorForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Vendors.Areas.Vendors.Controllers.VendorApiController",
+    "Method": "Get",
+    "RelativePath": "api/vendors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Vendors.Areas.Vendors.Controllers.VendorApiController",
+    "Method": "Put",
+    "RelativePath": "api/vendors/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Vendors.Areas.Vendors.ViewModels.VendorForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Vendors.Areas.Vendors.Controllers.VendorApiController",
+    "Method": "Delete",
+    "RelativePath": "api/vendors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Vendors.Areas.Vendors.Controllers.VendorApiController",
+    "Method": "List",
+    "RelativePath": "api/vendors/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseApiController",
+    "Method": "Get",
+    "RelativePath": "api/warehouses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseApiController",
+    "Method": "Post",
+    "RelativePath": "api/warehouses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Inventory.Areas.Inventory.ViewModels.WarehouseVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseApiController",
+    "Method": "Get",
+    "RelativePath": "api/warehouses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseApiController",
+    "Method": "Put",
+    "RelativePath": "api/warehouses/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SimplCommerce.Module.Inventory.Areas.Inventory.ViewModels.WarehouseVm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseApiController",
+    "Method": "Delete",
+    "RelativePath": "api/warehouses/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseProductApiController",
+    "Method": "AddAllProducts",
+    "RelativePath": "api/warehouses/{warehouseId}/add-all-products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "warehouseId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseProductApiController",
+    "Method": "AddProducts",
+    "RelativePath": "api/warehouses/{warehouseId}/add-products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "warehouseId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "productIds",
+        "Type": "System.Collections.Generic.IList\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseProductApiController",
+    "Method": "GetProducts",
+    "RelativePath": "api/warehouses/{warehouseId}/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "warehouseId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableResult\u00601[[SimplCommerce.Module.Inventory.Areas.Inventory.ViewModels.MangeWarehouseProductItemVm, SimplCommerce.Module.Inventory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Inventory.Areas.Inventory.Controllers.WarehouseApiController",
+    "Method": "List",
+    "RelativePath": "api/warehouses/grid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "SimplCommerce.Infrastructure.Web.SmartTable.SmartTableParam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.WidgetInstanceApiController",
+    "Method": "Get",
+    "RelativePath": "api/widget-instances",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.WidgetInstanceApiController",
+    "Method": "Delete",
+    "RelativePath": "api/widget-instances/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.WidgetInstanceApiController",
+    "Method": "GetNumberOfWidgets",
+    "RelativePath": "api/widget-instances/number-of-widgets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.WidgetZoneApiController",
+    "Method": "Get",
+    "RelativePath": "api/widget-zones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Core.Areas.Core.Controllers.WidgetApiController",
+    "Method": "Get",
+    "RelativePath": "api/widgets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderController",
+    "Method": "OrderHistoryList",
+    "RelativePath": "user/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimplCommerce.Module.Orders.Areas.Orders.Controllers.OrderController",
+    "Method": "OrderDetails",
+    "RelativePath": "user/orders/{orderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

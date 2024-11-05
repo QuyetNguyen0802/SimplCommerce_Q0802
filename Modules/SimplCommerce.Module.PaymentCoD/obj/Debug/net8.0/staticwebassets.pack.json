@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCoD\\wwwroot\\admin\\config\\cod-service.js",
+      "PackagePath": "staticwebassets\\admin\\config\\cod-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCoD\\wwwroot\\admin\\config\\config-form.html",
+      "PackagePath": "staticwebassets\\admin\\config\\config-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCoD\\wwwroot\\admin\\config\\config-form.js",
+      "PackagePath": "staticwebassets\\admin\\config\\config-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentCoD\\wwwroot\\admin\\paymentCoD.module.js",
+      "PackagePath": "staticwebassets\\admin\\paymentCoD.module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.PaymentCoD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.PaymentCoD.props",
+      "PackagePath": "build\\SimplCommerce.Module.PaymentCoD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.PaymentCoD.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.PaymentCoD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.PaymentCoD.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.PaymentCoD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

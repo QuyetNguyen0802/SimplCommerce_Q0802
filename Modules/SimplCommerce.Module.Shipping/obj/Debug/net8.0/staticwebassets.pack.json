@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipping\\wwwroot\\admin\\provider\\shipping-provider-list.html",
+      "PackagePath": "staticwebassets\\admin\\provider\\shipping-provider-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipping\\wwwroot\\admin\\provider\\shipping-provider-list.js",
+      "PackagePath": "staticwebassets\\admin\\provider\\shipping-provider-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipping\\wwwroot\\admin\\provider\\shipping-provider-service.js",
+      "PackagePath": "staticwebassets\\admin\\provider\\shipping-provider-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipping\\wwwroot\\admin\\shipping.module.js",
+      "PackagePath": "staticwebassets\\admin\\shipping.module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Shipping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Shipping.props",
+      "PackagePath": "build\\SimplCommerce.Module.Shipping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Shipping.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Shipping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Shipping.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Shipping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

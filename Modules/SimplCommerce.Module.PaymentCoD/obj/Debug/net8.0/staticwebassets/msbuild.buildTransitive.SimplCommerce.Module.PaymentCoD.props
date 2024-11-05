@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SimplCommerce.Module.PaymentCoD.props" />
+</Project>

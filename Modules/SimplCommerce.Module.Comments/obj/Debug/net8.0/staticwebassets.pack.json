@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Comments\\wwwroot\\admin\\comment\\comment-list.html",
+      "PackagePath": "staticwebassets\\admin\\comment\\comment-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Comments\\wwwroot\\admin\\comment\\comment-list.js",
+      "PackagePath": "staticwebassets\\admin\\comment\\comment-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Comments\\wwwroot\\admin\\comment\\comment-service.js",
+      "PackagePath": "staticwebassets\\admin\\comment\\comment-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Comments\\wwwroot\\admin\\comments.module.js",
+      "PackagePath": "staticwebassets\\admin\\comments.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Comments\\wwwroot\\comment-service.js",
+      "PackagePath": "staticwebassets\\comment-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Comments\\wwwroot\\comment.css",
+      "PackagePath": "staticwebassets\\comment.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Comments\\wwwroot\\comment.js",
+      "PackagePath": "staticwebassets\\comment.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Comments.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Comments.props",
+      "PackagePath": "build\\SimplCommerce.Module.Comments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Comments.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Comments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Comments.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Comments.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

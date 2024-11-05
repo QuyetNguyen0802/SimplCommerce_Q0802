@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule-usage\\cart-rule-usage-list.html",
+      "PackagePath": "staticwebassets\\admin\\cart-rule-usage\\cart-rule-usage-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule-usage\\cart-rule-usage-list.js",
+      "PackagePath": "staticwebassets\\admin\\cart-rule-usage\\cart-rule-usage-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule-usage\\cart-rule-usage-service.js",
+      "PackagePath": "staticwebassets\\admin\\cart-rule-usage\\cart-rule-usage-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule\\cart-rule-form.html",
+      "PackagePath": "staticwebassets\\admin\\cart-rule\\cart-rule-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule\\cart-rule-form.js",
+      "PackagePath": "staticwebassets\\admin\\cart-rule\\cart-rule-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule\\cart-rule-list.html",
+      "PackagePath": "staticwebassets\\admin\\cart-rule\\cart-rule-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule\\cart-rule-list.js",
+      "PackagePath": "staticwebassets\\admin\\cart-rule\\cart-rule-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\cart-rule\\cart-rule-service.js",
+      "PackagePath": "staticwebassets\\admin\\cart-rule\\cart-rule-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Pricing\\wwwroot\\admin\\pricing.module.js",
+      "PackagePath": "staticwebassets\\admin\\pricing.module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Pricing.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Pricing.props",
+      "PackagePath": "build\\SimplCommerce.Module.Pricing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Pricing.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Pricing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Pricing.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Pricing.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

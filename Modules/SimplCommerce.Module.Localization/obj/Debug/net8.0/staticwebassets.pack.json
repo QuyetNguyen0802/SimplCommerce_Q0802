@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Localization\\wwwroot\\admin\\localization.module.js",
+      "PackagePath": "staticwebassets\\admin\\localization.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Localization\\wwwroot\\admin\\localization\\localization-form.html",
+      "PackagePath": "staticwebassets\\admin\\localization\\localization-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Localization\\wwwroot\\admin\\localization\\localization-form.js",
+      "PackagePath": "staticwebassets\\admin\\localization\\localization-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Localization\\wwwroot\\admin\\localization\\localization-service.js",
+      "PackagePath": "staticwebassets\\admin\\localization\\localization-service.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Localization.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Localization.props",
+      "PackagePath": "build\\SimplCommerce.Module.Localization.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Localization.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Localization.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Localization.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Localization.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

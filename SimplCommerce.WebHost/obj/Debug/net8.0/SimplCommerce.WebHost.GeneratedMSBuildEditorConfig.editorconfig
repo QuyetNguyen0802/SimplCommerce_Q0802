@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SimplCommerce.WebHost
+build_property.RootNamespace = SimplCommerce.WebHost
+build_property.ProjectDir = D:\C#\C_Net\Clone\SimplCommerce\src\SimplCommerce.WebHost\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\C#\C_Net\Clone\SimplCommerce\src\SimplCommerce.WebHost
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Category/CategoryDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXENhdGVnb3J5XENhdGVnb3J5RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Product/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXFByb2R1Y3RcUHJvZHVjdERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/CategoryBreadcrumb/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXENhdGVnb3J5QnJlYWRjcnVtYlxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/CategoryMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXENhdGVnb3J5TWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/CategoryWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXENhdGVnb3J5V2lkZ2V0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/ProductWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXFByb2R1Y3RXaWRnZXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/SimpleProductWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXFNpbXBsZVByb2R1Y3RXaWRnZXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/_ProductThumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXFNoYXJlZFxfUHJvZHVjdFRodW1ibmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Catalog/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDYXRhbG9nXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Cms/Views/Shared/Components/CarouselWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDbXNcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2Fyb3VzZWxXaWRnZXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Cms/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDbXNcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Cms/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDbXNcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDb3JlXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDb3JlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xDb3JlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/ProductRecentlyViewed/Views/Shared/Components/ProductRecentlyViewed/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xQcm9kdWN0UmVjZW50bHlWaWV3ZWRcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdFJlY2VudGx5Vmlld2VkXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/ProductRecentlyViewed/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xQcm9kdWN0UmVjZW50bHlWaWV3ZWRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Search/Views/Shared/Components/SearchForm/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xTZWFyY2hcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VhcmNoRm9ybVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/Search/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xTZWFyY2hcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/ShoppingCart/Views/Shared/Components/CartBadge/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xTaG9wcGluZ0NhcnRcVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydEJhZGdlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Areas/ShoppingCart/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxBcmVhc1xTaG9wcGluZ0NhcnRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxWaWV3c1xTaGFyZWRcX0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Views/Shared/_SelectLanguagePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxWaWV3c1xTaGFyZWRcX1NlbGVjdExhbmd1YWdlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/CozaStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXENvemFTdG9yZVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Areas/Catalog/Views/Shared/_ProductThumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXEFyZWFzXENhdGFsb2dcVmlld3NcU2hhcmVkXF9Qcm9kdWN0VGh1bWJuYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Areas/Catalog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXEFyZWFzXENhdGFsb2dcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Areas/Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXEFyZWFzXENvcmVcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Areas/Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXEFyZWFzXENvcmVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Areas/Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXEFyZWFzXENvcmVcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Themes/SampleTheme/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFNhbXBsZVRoZW1lXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXDQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/_AccountMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2NvdW50TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/_AnalyticsScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbmFseXRpY3NTY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/_SelectLanguagePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWxlY3RMYW5ndWFnZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/C_Net/Clone/SimplCommerce/src/SimplCommerce.WebHost/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

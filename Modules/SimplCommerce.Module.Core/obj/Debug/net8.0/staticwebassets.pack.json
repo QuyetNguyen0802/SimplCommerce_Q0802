@@ -1,0 +1,225 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\Logo_SimplCommerce.png",
+      "PackagePath": "staticwebassets\\Logo_SimplCommerce.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\admin-app-config.js",
+      "PackagePath": "staticwebassets\\admin\\admin-app-config.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\admin-core.css",
+      "PackagePath": "staticwebassets\\admin\\admin-core.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\common.js",
+      "PackagePath": "staticwebassets\\admin\\common\\common.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\exception.js",
+      "PackagePath": "staticwebassets\\admin\\common\\exception.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\logger.js",
+      "PackagePath": "staticwebassets\\admin\\common\\logger.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\simplUtil.js",
+      "PackagePath": "staticwebassets\\admin\\common\\simplUtil.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\slugify.js",
+      "PackagePath": "staticwebassets\\admin\\common\\slugify.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\st-date-range.html",
+      "PackagePath": "staticwebassets\\admin\\common\\st-date-range.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\st-date-range.js",
+      "PackagePath": "staticwebassets\\admin\\common\\st-date-range.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\summernote-service.js",
+      "PackagePath": "staticwebassets\\admin\\common\\summernote-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\common\\translation-service.js",
+      "PackagePath": "staticwebassets\\admin\\common\\translation-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\configuration\\configuration-service.js",
+      "PackagePath": "staticwebassets\\admin\\configuration\\configuration-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\configuration\\configuration.html",
+      "PackagePath": "staticwebassets\\admin\\configuration\\configuration.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\configuration\\configuration.js",
+      "PackagePath": "staticwebassets\\admin\\configuration\\configuration.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\core.module.js",
+      "PackagePath": "staticwebassets\\admin\\core.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\countries\\country-form.html",
+      "PackagePath": "staticwebassets\\admin\\countries\\country-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\countries\\country-form.js",
+      "PackagePath": "staticwebassets\\admin\\countries\\country-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\countries\\country-list.html",
+      "PackagePath": "staticwebassets\\admin\\countries\\country-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\countries\\country-list.js",
+      "PackagePath": "staticwebassets\\admin\\countries\\country-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\countries\\country-service.js",
+      "PackagePath": "staticwebassets\\admin\\countries\\country-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\customergroups\\customergroup-form.html",
+      "PackagePath": "staticwebassets\\admin\\customergroups\\customergroup-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\customergroups\\customergroup-form.js",
+      "PackagePath": "staticwebassets\\admin\\customergroups\\customergroup-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\customergroups\\customergroup-list.html",
+      "PackagePath": "staticwebassets\\admin\\customergroups\\customergroup-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\customergroups\\customergroup-list.js",
+      "PackagePath": "staticwebassets\\admin\\customergroups\\customergroup-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\customergroups\\customergroup-service.js",
+      "PackagePath": "staticwebassets\\admin\\customergroups\\customergroup-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\dashboard\\dashboard.module.js",
+      "PackagePath": "staticwebassets\\admin\\dashboard\\dashboard.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\stateprovince\\state-province-form.html",
+      "PackagePath": "staticwebassets\\admin\\stateprovince\\state-province-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\stateprovince\\state-province-form.js",
+      "PackagePath": "staticwebassets\\admin\\stateprovince\\state-province-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\stateprovince\\state-province-list.html",
+      "PackagePath": "staticwebassets\\admin\\stateprovince\\state-province-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\stateprovince\\state-province-list.js",
+      "PackagePath": "staticwebassets\\admin\\stateprovince\\state-province-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\stateprovince\\state-province-service.js",
+      "PackagePath": "staticwebassets\\admin\\stateprovince\\state-province-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\themes\\online-theme-list.html",
+      "PackagePath": "staticwebassets\\admin\\themes\\online-theme-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\themes\\online-theme-list.js",
+      "PackagePath": "staticwebassets\\admin\\themes\\online-theme-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\themes\\theme-details.html",
+      "PackagePath": "staticwebassets\\admin\\themes\\theme-details.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\themes\\theme-details.js",
+      "PackagePath": "staticwebassets\\admin\\themes\\theme-details.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\themes\\theme-list.html",
+      "PackagePath": "staticwebassets\\admin\\themes\\theme-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\themes\\theme-list.js",
+      "PackagePath": "staticwebassets\\admin\\themes\\theme-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\themes\\theme-service.js",
+      "PackagePath": "staticwebassets\\admin\\themes\\theme-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\user\\user-form.html",
+      "PackagePath": "staticwebassets\\admin\\user\\user-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\user\\user-form.js",
+      "PackagePath": "staticwebassets\\admin\\user\\user-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\user\\user-list.html",
+      "PackagePath": "staticwebassets\\admin\\user\\user-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\user\\user-list.js",
+      "PackagePath": "staticwebassets\\admin\\user\\user-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\user\\user-service.js",
+      "PackagePath": "staticwebassets\\admin\\user\\user-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\widget\\widget-instance-list.html",
+      "PackagePath": "staticwebassets\\admin\\widget\\widget-instance-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\widget\\widget-instance-list.js",
+      "PackagePath": "staticwebassets\\admin\\widget\\widget-instance-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\admin\\widget\\widget-service.js",
+      "PackagePath": "staticwebassets\\admin\\widget\\widget-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\site.css",
+      "PackagePath": "staticwebassets\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\site.min.css",
+      "PackagePath": "staticwebassets\\site.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Core\\wwwroot\\user-address.js",
+      "PackagePath": "staticwebassets\\user-address.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Core.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Core.props",
+      "PackagePath": "build\\SimplCommerce.Module.Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Core.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Core.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Core.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Core.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

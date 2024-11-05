@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentPaypalExpress\\wwwroot\\admin\\config\\config-form.html",
+      "PackagePath": "staticwebassets\\admin\\config\\config-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentPaypalExpress\\wwwroot\\admin\\config\\config-form.js",
+      "PackagePath": "staticwebassets\\admin\\config\\config-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentPaypalExpress\\wwwroot\\admin\\config\\paypalExpress-service.js",
+      "PackagePath": "staticwebassets\\admin\\config\\paypalExpress-service.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.PaymentPaypalExpress\\wwwroot\\admin\\paypalExpress.module.js",
+      "PackagePath": "staticwebassets\\admin\\paypalExpress.module.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.PaymentPaypalExpress.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.PaymentPaypalExpress.props",
+      "PackagePath": "build\\SimplCommerce.Module.PaymentPaypalExpress.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.PaymentPaypalExpress.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.PaymentPaypalExpress.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.PaymentPaypalExpress.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.PaymentPaypalExpress.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

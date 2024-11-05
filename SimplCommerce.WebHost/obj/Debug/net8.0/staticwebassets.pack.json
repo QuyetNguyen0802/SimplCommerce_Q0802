@@ -1,0 +1,2129 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\1009.gif",
+      "PackagePath": "staticwebassets\\Images\\1009.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\21meTyhQebL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\21meTyhQebL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31EPGSm2s1L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31EPGSm2s1L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31LAnW1JFqL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31LAnW1JFqL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31TB6tC6BOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31TB6tC6BOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31YOss-gC-L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31YOss-gC-L._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31hCgES5GXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31hCgES5GXL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31ioCUUFnoL.jpg",
+      "PackagePath": "staticwebassets\\Images\\31ioCUUFnoL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31jsjfVfH9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31jsjfVfH9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31ncPnMYCxL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31ncPnMYCxL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31pAGovVENL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31pAGovVENL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31pT+SdvQXL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\31pT+SdvQXL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\31yxRemzRLL._SS350_ (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\31yxRemzRLL._SS350_ (1).jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41-yvkFqVZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41-yvkFqVZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\410PjzqoC8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\410PjzqoC8L._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\415cOCbey.jpg",
+      "PackagePath": "staticwebassets\\Images\\415cOCbey.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\415cOCbeyML.jpg",
+      "PackagePath": "staticwebassets\\Images\\415cOCbeyML.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\416OcTXFfeL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\416OcTXFfeL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\416pdroSEkL.jpg",
+      "PackagePath": "staticwebassets\\Images\\416pdroSEkL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\419WCoqfamL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\419WCoqfamL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41A9R5KXCXL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41A9R5KXCXL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41BiMx1FKyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41BiMx1FKyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41CIcYRxJKL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41CIcYRxJKL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41G38jC0ajL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41G38jC0ajL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41GVLtgNngL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41GVLtgNngL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41IPLmZIKhL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41IPLmZIKhL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41KALboJKuL.jpg",
+      "PackagePath": "staticwebassets\\Images\\41KALboJKuL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41LMouG6j7L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41LMouG6j7L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41MJUdI2jdL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41MJUdI2jdL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41Pg1ahql8L._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41Pg1ahql8L._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41RxtSQOd2L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41RxtSQOd2L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41TexqWVkHL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41TexqWVkHL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41V4Ds2PtZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41V4Ds2PtZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41WvZnGYUkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41WvZnGYUkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41XX7Pi240L.jpg",
+      "PackagePath": "staticwebassets\\Images\\41XX7Pi240L.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41Ymq8fjbOL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41Ymq8fjbOL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41Z43OmFHjL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41Z43OmFHjL._SX342_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41ZE9SmWdzL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41ZE9SmWdzL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41brDHtPY9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41brDHtPY9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41iDo0HDhbL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41iDo0HDhbL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41iji4-9UsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41iji4-9UsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41lffECD-sL._SY445_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41lffECD-sL._SY445_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41qfgTvFBwL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41qfgTvFBwL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41qlcUEhNmL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41qlcUEhNmL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41riQRGf-6L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41riQRGf-6L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41sd2DTD8EL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41sd2DTD8EL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41sdBTtnUDL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41sdBTtnUDL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41sl3FN6NpL.jpg",
+      "PackagePath": "staticwebassets\\Images\\41sl3FN6NpL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41sw9ASUvBL._SX342_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41sw9ASUvBL._SX342_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41w4TlVPhGL.jpg",
+      "PackagePath": "staticwebassets\\Images\\41w4TlVPhGL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41wHu2N4tVL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41wHu2N4tVL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41yh1vBmqsL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41yh1vBmqsL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\41zxxR71G+L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\41zxxR71G+L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51+4d3VBFvL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51+4d3VBFvL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\513UnnRfFML._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\Images\\513UnnRfFML._SL1001_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\515p1IeP0-L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\515p1IeP0-L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\5195-l+nflL._AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\5195-l+nflL._AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51GBNkHO6vL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51GBNkHO6vL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51JhyHtnEgL._SL1001_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51JhyHtnEgL._SL1001_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51Lj5bxbNtL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51Lj5bxbNtL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51Z9tfgl4aL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51Z9tfgl4aL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51czOOat0OL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51czOOat0OL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51l46qQB50L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51l46qQB50L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51nukXFJLJL.jpg",
+      "PackagePath": "staticwebassets\\Images\\51nukXFJLJL.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51pvLIvb6ZL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51pvLIvb6ZL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51s6pbRlNyL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51s6pbRlNyL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51uJ-pWfc9L._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51uJ-pWfc9L._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51vxcBS1sQL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51vxcBS1sQL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51w+JqOnmSL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51w+JqOnmSL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51y46IslQkL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51y46IslQkL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\51yomC0EodL._SL500_AA300_.jpg",
+      "PackagePath": "staticwebassets\\Images\\51yomC0EodL._SL500_AA300_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\71bJrFAys9L._SL1280_.jpg",
+      "PackagePath": "staticwebassets\\Images\\71bJrFAys9L._SL1280_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\71cBwWAgvIL._SL1430_.jpg",
+      "PackagePath": "staticwebassets\\Images\\71cBwWAgvIL._SL1430_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\816zGZv1ORL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\816zGZv1ORL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\81Q1DvOnnoL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\81Q1DvOnnoL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\81k1XbQ6nQL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\81k1XbQ6nQL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\91FM0Hog9FL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\91FM0Hog9FL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\91JUBDf1jTL._AA1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\91JUBDf1jTL._AA1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\91T2BjUkYmL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\Images\\91T2BjUkYmL._SL1500_.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\Camera1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Camera1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\Images\\To.gif",
+      "PackagePath": "staticwebassets\\Images\\To.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-animate\\angular-animate.js",
+      "PackagePath": "staticwebassets\\lib\\angular-animate\\angular-animate.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-animate\\angular-animate.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-animate\\angular-animate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-animate\\angular-animate.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\angular-animate\\angular-animate.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-aria\\angular-aria.js",
+      "PackagePath": "staticwebassets\\lib\\angular-aria\\angular-aria.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-aria\\angular-aria.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-aria\\angular-aria.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-aria\\angular-aria.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\angular-aria\\angular-aria.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap-colorpicker\\css\\colorpicker.css",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap-colorpicker\\css\\colorpicker.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap-colorpicker\\css\\colorpicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap-colorpicker\\css\\colorpicker.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap-colorpicker\\img\\alpha.png",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap-colorpicker\\img\\alpha.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap-colorpicker\\img\\hue.png",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap-colorpicker\\img\\hue.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap-colorpicker\\img\\saturation.png",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap-colorpicker\\img\\saturation.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap-colorpicker\\js\\bootstrap-colorpicker-module.js",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap-colorpicker\\js\\bootstrap-colorpicker-module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap-colorpicker\\js\\bootstrap-colorpicker-module.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap-colorpicker\\js\\bootstrap-colorpicker-module.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap\\ui-bootstrap-csp.css",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap\\ui-bootstrap-csp.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap\\ui-bootstrap-tpls.js",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap\\ui-bootstrap-tpls.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap\\ui-bootstrap-tpls.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap\\ui-bootstrap-tpls.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap\\ui-bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap\\ui-bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-bootstrap\\ui-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-bootstrap\\ui-bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-material\\angular-material-mocks.js",
+      "PackagePath": "staticwebassets\\lib\\angular-material\\angular-material-mocks.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-material\\angular-material.css",
+      "PackagePath": "staticwebassets\\lib\\angular-material\\angular-material.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-material\\angular-material.js",
+      "PackagePath": "staticwebassets\\lib\\angular-material\\angular-material.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-material\\angular-material.min.css",
+      "PackagePath": "staticwebassets\\lib\\angular-material\\angular-material.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-material\\angular-material.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-material\\angular-material.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-messages\\angular-messages.js",
+      "PackagePath": "staticwebassets\\lib\\angular-messages\\angular-messages.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-messages\\angular-messages.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-messages\\angular-messages.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-messages\\angular-messages.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\angular-messages\\angular-messages.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-smart-table\\dist\\smart-table.js",
+      "PackagePath": "staticwebassets\\lib\\angular-smart-table\\dist\\smart-table.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-smart-table\\dist\\smart-table.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-smart-table\\dist\\smart-table.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-smart-table\\dist\\smart-table.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\angular-smart-table\\dist\\smart-table.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-smart-table\\smart-table.js",
+      "PackagePath": "staticwebassets\\lib\\angular-smart-table\\smart-table.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-smart-table\\smart-table.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-smart-table\\smart-table.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-summernote\\angular-summernote.js",
+      "PackagePath": "staticwebassets\\lib\\angular-summernote\\angular-summernote.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-summernote\\angular-summernote.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-summernote\\angular-summernote.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-ui-router\\angular-ui-router.js",
+      "PackagePath": "staticwebassets\\lib\\angular-ui-router\\angular-ui-router.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-ui-router\\angular-ui-router.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-ui-router\\angular-ui-router.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-ui-tree\\angular-ui-tree.css",
+      "PackagePath": "staticwebassets\\lib\\angular-ui-tree\\angular-ui-tree.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-ui-tree\\angular-ui-tree.js",
+      "PackagePath": "staticwebassets\\lib\\angular-ui-tree\\angular-ui-tree.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-ui-tree\\angular-ui-tree.min.css",
+      "PackagePath": "staticwebassets\\lib\\angular-ui-tree\\angular-ui-tree.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular-ui-tree\\angular-ui-tree.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular-ui-tree\\angular-ui-tree.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular\\angular.js",
+      "PackagePath": "staticwebassets\\lib\\angular\\angular.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\angular\\angular.min.js",
+      "PackagePath": "staticwebassets\\lib\\angular\\angular.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootbox\\bootbox.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox\\bootbox.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootbox\\bootbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootbox\\bootbox.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\css\\star-rating.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\css\\star-rating.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\css\\star-rating.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\css\\star-rating.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\img\\loading.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\LANG.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\LANG.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\ar.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\de.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\de.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\es.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\es.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\fa.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\fr.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\it.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\it.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\ko.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\pl.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\pt-BR.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\pt-BR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\ro.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\ru.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\tr.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\ua.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\ua.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\vi-vn.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\vi-vn.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\locales\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\locales\\zh.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\star-rating.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\star-rating.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-star-rating\\js\\star-rating.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-star-rating\\js\\star-rating.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-ui-datetime-picker\\datetime-picker.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-ui-datetime-picker\\datetime-picker.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-ui-datetime-picker\\datetime-picker.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-ui-datetime-picker\\datetime-picker.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap-ui-datetime-picker\\datetime-picker.tpls.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-ui-datetime-picker\\datetime-picker.tpls.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\flags\\blank.gif",
+      "PackagePath": "staticwebassets\\lib\\flags\\blank.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\flags\\flags.css",
+      "PackagePath": "staticwebassets\\lib\\flags\\flags.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\flags\\flags.min.css",
+      "PackagePath": "staticwebassets\\lib\\flags\\flags.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\flags\\flags.png",
+      "PackagePath": "staticwebassets\\lib\\flags\\flags.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_ar-tn.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_ar-tn.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_ar.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_ar.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_en-us.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_en-us.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_en.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_en.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_fr-fr.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_fr-fr.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_fr.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_fr.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_ko-kr.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_ko-kr.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_ko.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_ko.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_pt-br.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_pt.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_pt.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_ru-ru.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_ru-ru.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_ru.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_ru.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_uk-ua.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_uk-ua.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_uk.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_uk.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_vi-vn.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_vi-vn.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\i18n\\angular-locale_vi.js",
+      "PackagePath": "staticwebassets\\lib\\i18n\\angular-locale_vi.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery-validation\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery-validation\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery-validation\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\matchheight\\jquery.matchHeight-min.js",
+      "PackagePath": "staticwebassets\\lib\\matchheight\\jquery.matchHeight-min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\matchheight\\jquery.matchHeight.js",
+      "PackagePath": "staticwebassets\\lib\\matchheight\\jquery.matchHeight.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\multi-dropdown-menu\\css\\bootstrap-4-navbar.css",
+      "PackagePath": "staticwebassets\\lib\\multi-dropdown-menu\\css\\bootstrap-4-navbar.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\multi-dropdown-menu\\js\\bootstrap-4-navbar.js",
+      "PackagePath": "staticwebassets\\lib\\multi-dropdown-menu\\js\\bootstrap-4-navbar.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\ng-file-upload\\dist\\ng-file-upload.js",
+      "PackagePath": "staticwebassets\\lib\\ng-file-upload\\dist\\ng-file-upload.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\ng-file-upload\\dist\\ng-file-upload.min.js",
+      "PackagePath": "staticwebassets\\lib\\ng-file-upload\\dist\\ng-file-upload.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\nouislider\\distribute\\nouislider.js",
+      "PackagePath": "staticwebassets\\lib\\nouislider\\distribute\\nouislider.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\nouislider\\distribute\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\lib\\nouislider\\distribute\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\nouislider\\distribute\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\lib\\nouislider\\distribute\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\pagination\\README.md",
+      "PackagePath": "staticwebassets\\lib\\pagination\\README.md"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\pagination\\dirPagination.js",
+      "PackagePath": "staticwebassets\\lib\\pagination\\dirPagination.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\pagination\\dirPagination.spec.js",
+      "PackagePath": "staticwebassets\\lib\\pagination\\dirPagination.spec.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\pagination\\dirPagination.tpl.html",
+      "PackagePath": "staticwebassets\\lib\\pagination\\dirPagination.tpl.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\pagination\\testTemplate.tpl.html",
+      "PackagePath": "staticwebassets\\lib\\pagination\\testTemplate.tpl.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\smoothproducts\\css\\smoothproducts.css",
+      "PackagePath": "staticwebassets\\lib\\smoothproducts\\css\\smoothproducts.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\smoothproducts\\js\\smoothproducts.js",
+      "PackagePath": "staticwebassets\\lib\\smoothproducts\\js\\smoothproducts.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\smoothproducts\\js\\smoothproducts.min.js",
+      "PackagePath": "staticwebassets\\lib\\smoothproducts\\js\\smoothproducts.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\lib\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\lib\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\lib\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\databasic\\summernote-ext-databasic.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\hello\\summernote-ext-hello.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\lib\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\toastr\\build\\toastr.css",
+      "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\toastr\\build\\toastr.js.map",
+      "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.js.map"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\toastr\\build\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\toastr\\build\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\lib\\wnumb\\wNumb.js",
+      "PackagePath": "staticwebassets\\lib\\wnumb\\wNumb.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\libs.min.css",
+      "PackagePath": "staticwebassets\\libs.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\CozaStore.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\CozaStore.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\css\\flags.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\css\\flags.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\css\\flags.min.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\css\\flags.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\css\\main.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\css\\main.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\css\\simpl.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\css\\simpl.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\css\\util.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\css\\util.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\blank.gif",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\blank.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\flags.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\flags.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\js\\cozastore.js",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\js\\cozastore.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\js\\slick-custom.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\site.min.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\site.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\CozaStore\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\themes\\CozaStore\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\SampleTheme\\SampleTheme.png",
+      "PackagePath": "staticwebassets\\themes\\SampleTheme\\SampleTheme.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\SampleTheme\\site.css",
+      "PackagePath": "staticwebassets\\themes\\SampleTheme\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\themes\\generic-theme.png",
+      "PackagePath": "staticwebassets\\themes\\generic-theme.png"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\.gitignore",
+      "PackagePath": "staticwebassets\\user-content\\.gitignore"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\0089c72c-2fbe-48c3-a33f-718ae1eafd8b.jpg",
+      "PackagePath": "staticwebassets\\user-content\\0089c72c-2fbe-48c3-a33f-718ae1eafd8b.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\0199b7af-4d14-4858-a902-62ca8c5e9b6d.jpg",
+      "PackagePath": "staticwebassets\\user-content\\0199b7af-4d14-4858-a902-62ca8c5e9b6d.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\057afd18-8973-4078-9fd2-7eb0b52d8e72.jpg",
+      "PackagePath": "staticwebassets\\user-content\\057afd18-8973-4078-9fd2-7eb0b52d8e72.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\117ed074-628a-4db7-abbb-4a335adb3504.jpg",
+      "PackagePath": "staticwebassets\\user-content\\117ed074-628a-4db7-abbb-4a335adb3504.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\1201ba32-984a-48eb-b86a-23d4c8f76d5b.jpg",
+      "PackagePath": "staticwebassets\\user-content\\1201ba32-984a-48eb-b86a-23d4c8f76d5b.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\1761ffd9-2c53-4a6b-856f-e2f4039d0247.jpg",
+      "PackagePath": "staticwebassets\\user-content\\1761ffd9-2c53-4a6b-856f-e2f4039d0247.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\1a79b958-50bc-48d8-b3e5-826222949d28.jpg",
+      "PackagePath": "staticwebassets\\user-content\\1a79b958-50bc-48d8-b3e5-826222949d28.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\1aead9b6-73a8-45c1-a463-7655e9a9b478.jpg",
+      "PackagePath": "staticwebassets\\user-content\\1aead9b6-73a8-45c1-a463-7655e9a9b478.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\1b896b5e-f6bf-41ca-89ee-025c6be9e08c.jpg",
+      "PackagePath": "staticwebassets\\user-content\\1b896b5e-f6bf-41ca-89ee-025c6be9e08c.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\1d9d5101-7e0b-4c29-88fe-e54891647672.jpg",
+      "PackagePath": "staticwebassets\\user-content\\1d9d5101-7e0b-4c29-88fe-e54891647672.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\2db2ffbb-46d5-4f3c-8dc0-614e83162a1c.jpg",
+      "PackagePath": "staticwebassets\\user-content\\2db2ffbb-46d5-4f3c-8dc0-614e83162a1c.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\2f856ed8-323e-4c26-99d1-cd4ec07f9979.jpg",
+      "PackagePath": "staticwebassets\\user-content\\2f856ed8-323e-4c26-99d1-cd4ec07f9979.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\37dc2d94-dbac-4112-afbc-2fc88ddca753.jpg",
+      "PackagePath": "staticwebassets\\user-content\\37dc2d94-dbac-4112-afbc-2fc88ddca753.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\461a2564-b657-46bb-bcb5-f7deaeb2a0a9.jpg",
+      "PackagePath": "staticwebassets\\user-content\\461a2564-b657-46bb-bcb5-f7deaeb2a0a9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\4d24a1fd-a362-47e4-9060-011d415398b9.jpg",
+      "PackagePath": "staticwebassets\\user-content\\4d24a1fd-a362-47e4-9060-011d415398b9.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\532fc844-2c11-494e-a68b-af0be2b9a87f.jpg",
+      "PackagePath": "staticwebassets\\user-content\\532fc844-2c11-494e-a68b-af0be2b9a87f.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\5cf020c2-72b5-407d-836a-ef1a316b741c.jpg",
+      "PackagePath": "staticwebassets\\user-content\\5cf020c2-72b5-407d-836a-ef1a316b741c.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\74552a46-4309-43e1-ad4e-79cd9e778722.jpg",
+      "PackagePath": "staticwebassets\\user-content\\74552a46-4309-43e1-ad4e-79cd9e778722.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\78f1840e-7a50-49de-9dad-9127ec290dfd.jpg",
+      "PackagePath": "staticwebassets\\user-content\\78f1840e-7a50-49de-9dad-9127ec290dfd.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\83c21bb9-2f0d-446a-bb0c-3b19e6d922aa.jpg",
+      "PackagePath": "staticwebassets\\user-content\\83c21bb9-2f0d-446a-bb0c-3b19e6d922aa.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\88604574-f0a3-4982-9b0d-f8a7558dd3ba.jpg",
+      "PackagePath": "staticwebassets\\user-content\\88604574-f0a3-4982-9b0d-f8a7558dd3ba.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\911207ad-5b45-423f-9575-2185c85261c0.jpg",
+      "PackagePath": "staticwebassets\\user-content\\911207ad-5b45-423f-9575-2185c85261c0.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\a5904343-189d-469b-a93b-d553c109b781.jpg",
+      "PackagePath": "staticwebassets\\user-content\\a5904343-189d-469b-a93b-d553c109b781.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\aa5f06ca-9aa9-42b2-a1bc-161d6cf3f174.jpg",
+      "PackagePath": "staticwebassets\\user-content\\aa5f06ca-9aa9-42b2-a1bc-161d6cf3f174.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\b94d02b8-6d3a-4919-b144-c121387a272d.jpg",
+      "PackagePath": "staticwebassets\\user-content\\b94d02b8-6d3a-4919-b144-c121387a272d.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\bc68637c-420f-4951-9130-b9fca36484e6.jpg",
+      "PackagePath": "staticwebassets\\user-content\\bc68637c-420f-4951-9130-b9fca36484e6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\bf16c55d-747e-4238-b444-06c3fe0463b2.jpg",
+      "PackagePath": "staticwebassets\\user-content\\bf16c55d-747e-4238-b444-06c3fe0463b2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\bf6461d5-0a9b-4a19-9516-5ca3b5b9da9e.jpg",
+      "PackagePath": "staticwebassets\\user-content\\bf6461d5-0a9b-4a19-9516-5ca3b5b9da9e.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\c27ee7c7-deb3-4697-a6b6-3358d72b556f.jpg",
+      "PackagePath": "staticwebassets\\user-content\\c27ee7c7-deb3-4697-a6b6-3358d72b556f.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\c8756541-d192-48e2-b822-2bf616fb876e.jpg",
+      "PackagePath": "staticwebassets\\user-content\\c8756541-d192-48e2-b822-2bf616fb876e.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\daa3af7c-452c-4c0f-9c61-aeccf001e825.jpg",
+      "PackagePath": "staticwebassets\\user-content\\daa3af7c-452c-4c0f-9c61-aeccf001e825.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\dd14f5e8-2e76-4f60-9f58-19652dcb80c5.jpg",
+      "PackagePath": "staticwebassets\\user-content\\dd14f5e8-2e76-4f60-9f58-19652dcb80c5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\de4bdb93-ab9d-4515-b19b-bb55aa4703b3.jpg",
+      "PackagePath": "staticwebassets\\user-content\\de4bdb93-ab9d-4515-b19b-bb55aa4703b3.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\df3590c2-a6a0-4813-96db-4a07e6c7f460.jpg",
+      "PackagePath": "staticwebassets\\user-content\\df3590c2-a6a0-4813-96db-4a07e6c7f460.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\e0a99874-20a8-43b8-9199-b109bb2c3ae5.jpg",
+      "PackagePath": "staticwebassets\\user-content\\e0a99874-20a8-43b8-9199-b109bb2c3ae5.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\ee4b30bf-fd13-47a7-b893-0e6e6b1aed05.jpg",
+      "PackagePath": "staticwebassets\\user-content\\ee4b30bf-fd13-47a7-b893-0e6e6b1aed05.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\fb26a4f2-0a36-41dd-b0e8-a6c0554d31f8.jpg",
+      "PackagePath": "staticwebassets\\user-content\\fb26a4f2-0a36-41dd-b0e8-a6c0554d31f8.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\fd623151-fc8a-464b-8c19-b1350d785bce.jpg",
+      "PackagePath": "staticwebassets\\user-content\\fd623151-fc8a-464b-8c19-b1350d785bce.jpg"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\SimplCommerce.WebHost\\wwwroot\\user-content\\no-image.png",
+      "PackagePath": "staticwebassets\\user-content\\no-image.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.WebHost.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.WebHost.props",
+      "PackagePath": "build\\SimplCommerce.WebHost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.WebHost.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.WebHost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.WebHost.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.WebHost.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment.module.js",
+      "PackagePath": "staticwebassets\\admin\\shipment.module.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-details.html",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-details.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-details.js",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-details.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-form.html",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-form.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-form.js",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-form.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-list-by-order.directive.html",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-list-by-order.directive.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-list-by-order.directive.js",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-list-by-order.directive.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-list.html",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-list.html"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-list.js",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-list.js"
+    },
+    {
+      "Id": "D:\\C#\\C_Net\\Clone\\SimplCommerce\\src\\Modules\\SimplCommerce.Module.Shipments\\wwwroot\\admin\\shipment\\shipment-service.js",
+      "PackagePath": "staticwebassets\\admin\\shipment\\shipment-service.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimplCommerce.Module.Shipments.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimplCommerce.Module.Shipments.props",
+      "PackagePath": "build\\SimplCommerce.Module.Shipments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimplCommerce.Module.Shipments.props",
+      "PackagePath": "buildMultiTargeting\\SimplCommerce.Module.Shipments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimplCommerce.Module.Shipments.props",
+      "PackagePath": "buildTransitive\\SimplCommerce.Module.Shipments.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
